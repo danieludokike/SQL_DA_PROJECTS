@@ -1,0 +1,701 @@
+Customer ID,Order ID,Product,Units Sold,Date
+3,266868,Chocolate Chip, 292 ,2/1/2020
+3,140794,Chocolate Chip, 974 ,2/1/2020
+3,684759,Chocolate Chip," 2,518 ",6/1/2020
+4,640447,Chocolate Chip," 1,006 ",6/1/2020
+2,898637,Chocolate Chip, 367 ,7/1/2020
+5,889571,Chocolate Chip, 883 ,8/1/2020
+1,738711,Chocolate Chip, 549 ,9/1/2019
+5,505339,Chocolate Chip, 788 ,9/1/2019
+5,703997,Chocolate Chip," 2,472 ",9/1/2020
+2,308620,Chocolate Chip," 1,143 ",10/1/2020
+4,289811,Chocolate Chip," 1,725 ",11/1/2019
+1,144696,Chocolate Chip, 912 ,11/1/2019
+5,529550,Chocolate Chip," 2,152 ",12/1/2019
+4,481875,Chocolate Chip," 1,817 ",12/1/2020
+3,183251,Chocolate Chip," 1,513 ",12/1/2020
+4,361305,Chocolate Chip," 3,945 ",1/1/2020
+4,579016,Chocolate Chip," 2,296 ",2/1/2020
+3,600124,Chocolate Chip," 1,030 ",5/1/2020
+3,562219,Chocolate Chip," 1,514 ",2/1/2020
+5,283378,Chocolate Chip," 4,493 ",4/1/2020
+4,885205,Chocolate Chip, 727 ,6/1/2020
+3,387444,Chocolate Chip, 787 ,6/1/2020
+4,534742,Chocolate Chip," 1,823 ",7/1/2020
+2,320688,Chocolate Chip, 747 ,9/1/2020
+5,238791,Chocolate Chip, 766 ,10/1/2019
+4,160202,Chocolate Chip," 2,905 ",11/1/2020
+1,481324,Chocolate Chip," 2,155 ",12/1/2020
+4,550816,Chocolate Chip," 2,363 ",2/1/2020
+5,770750,Chocolate Chip, 918 ,5/1/2020
+3,365463,Chocolate Chip," 1,728 ",5/1/2020
+1,234290,Chocolate Chip," 1,142 ",6/1/2020
+5,847203,Chocolate Chip, 662 ,6/1/2020
+4,776532,Chocolate Chip," 1,295 ",10/1/2020
+4,875012,Chocolate Chip, 809 ,10/1/2019
+3,505159,Chocolate Chip," 2,145 ",10/1/2019
+1,303687,Chocolate Chip," 1,785 ",11/1/2019
+5,778039,Chocolate Chip," 1,916 ",12/1/2020
+5,177011,Chocolate Chip," 2,852 ",12/1/2020
+2,306694,Chocolate Chip," 2,729 ",12/1/2020
+5,793514,Chocolate Chip," 1,925 ",12/1/2019
+1,780708,Chocolate Chip," 2,013 ",12/1/2019
+5,531834,Chocolate Chip," 1,055 ",12/1/2020
+3,300303,Chocolate Chip," 1,084 ",12/1/2020
+2,859158,Chocolate Chip," 2,435 ",1/1/2020
+1,779279,Chocolate Chip," 1,774 ",3/1/2020
+1,296424,Chocolate Chip," 1,901 ",6/1/2020
+3,578401,Chocolate Chip, 689 ,6/1/2020
+3,365552,Chocolate Chip," 1,570 ",6/1/2020
+4,713958,Chocolate Chip," 1,370 ",7/1/2020
+2,164895,Chocolate Chip," 2,009 ",10/1/2020
+1,675075,Chocolate Chip," 1,945 ",10/1/2019
+2,455780,Chocolate Chip," 1,287 ",12/1/2020
+2,566401,Chocolate Chip," 1,706 ",12/1/2020
+1,141665,Chocolate Chip," 1,760 ",9/1/2019
+4,872825,Chocolate Chip," 2,031 ",10/1/2020
+2,738910,Chocolate Chip," 2,261 ",12/1/2019
+3,239419,Chocolate Chip," 4,251 ",1/1/2020
+2,776513,Chocolate Chip, 795 ,3/1/2020
+4,595670,Chocolate Chip," 1,415 ",4/1/2020
+3,549329,Chocolate Chip," 2,918 ",5/1/2020
+2,824253,Chocolate Chip," 3,450 ",7/1/2020
+3,288851,Chocolate Chip," 2,988 ",7/1/2020
+1,675035,Chocolate Chip, 218 ,9/1/2020
+3,255145,Chocolate Chip," 2,074 ",9/1/2020
+5,436748,Chocolate Chip," 1,056 ",9/1/2020
+1,707858,Chocolate Chip, 671 ,10/1/2019
+3,538134,Chocolate Chip," 1,514 ",10/1/2019
+3,817134,Chocolate Chip, 274 ,12/1/2020
+3,697568,Chocolate Chip," 1,138 ",12/1/2020
+1,631270,Chocolate Chip," 1,372 ",1/1/2020
+2,678731,Chocolate Chip," 2,349 ",9/1/2019
+5,335658,Chocolate Chip," 2,689 ",10/1/2020
+5,115582,Chocolate Chip," 2,431 ",12/1/2020
+5,833644,Chocolate Chip," 1,303 ",2/1/2020
+3,508782,Chocolate Chip," 2,992 ",3/1/2020
+4,726489,Chocolate Chip," 2,385 ",3/1/2020
+1,218291,Chocolate Chip," 1,607 ",4/1/2020
+1,779126,Chocolate Chip," 2,327 ",5/1/2020
+4,560581,Chocolate Chip, 991 ,6/1/2020
+2,369627,Chocolate Chip, 602 ,6/1/2020
+5,587035,Chocolate Chip," 2,620 ",9/1/2020
+3,697895,Chocolate Chip," 1,228 ",10/1/2019
+3,691331,Chocolate Chip," 1,389 ",10/1/2019
+1,852827,Chocolate Chip, 861 ,10/1/2020
+1,567484,Chocolate Chip, 704 ,10/1/2019
+4,348194,Chocolate Chip," 1,802 ",12/1/2019
+4,444225,Chocolate Chip," 2,663 ",12/1/2020
+4,685544,Chocolate Chip," 2,136 ",12/1/2019
+1,636993,Chocolate Chip," 2,116 ",12/1/2019
+2,603195,Chocolate Chip," 3,801 ",4/1/2020
+3,568366,Chocolate Chip," 1,496 ",6/1/2020
+3,176592,Chocolate Chip," 2,299 ",10/1/2019
+5,758323,Chocolate Chip, 727 ,10/1/2019
+3,698245,Chocolate Chip," 2,198 ",8/1/2020
+4,796346,Chocolate Chip," 1,743 ",8/1/2020
+2,203608,Chocolate Chip," 1,153 ",10/1/2020
+4,676135,Chocolate Chip," 1,757 ",10/1/2019
+1,142979,Chocolate Chip," 1,031 ",9/1/2019
+1,283491,Chocolate Chip," 1,702 ",5/1/2020
+1,807061,Chocolate Chip, 448 ,6/1/2020
+4,459019,Chocolate Chip," 3,513 ",7/1/2020
+5,126864,Chocolate Chip," 2,101 ",8/1/2020
+5,854455,Chocolate Chip," 2,931 ",9/1/2019
+3,293863,Chocolate Chip," 1,535 ",9/1/2020
+2,898591,Chocolate Chip," 1,123 ",9/1/2019
+3,521535,Chocolate Chip," 1,404 ",11/1/2019
+5,867252,Chocolate Chip," 2,763 ",11/1/2019
+3,146778,Chocolate Chip," 2,125 ",12/1/2019
+2,566983,Chocolate Chip, 257 ,5/1/2020
+4,686090,Chocolate Chip," 1,114 ",3/1/2020
+3,428676,Chocolate Chip," 1,259 ",4/1/2020
+5,278950,Chocolate Chip," 1,095 ",5/1/2020
+3,418690,Chocolate Chip," 1,366 ",6/1/2020
+3,496123,Chocolate Chip," 2,460 ",6/1/2020
+5,456841,Chocolate Chip, 678 ,8/1/2020
+3,513469,Chocolate Chip," 1,598 ",8/1/2020
+3,231476,Chocolate Chip," 2,409 ",9/1/2019
+3,100553,Chocolate Chip," 1,934 ",9/1/2020
+3,788375,Chocolate Chip," 2,993 ",9/1/2020
+3,263663,Chocolate Chip," 2,146 ",11/1/2019
+3,887888,Chocolate Chip," 1,946 ",12/1/2019
+5,816536,Chocolate Chip," 1,362 ",12/1/2020
+2,334678,Chocolate Chip," 2,565 ",1/1/2020
+5,527753,Chocolate Chip," 2,417 ",1/1/2020
+2,643111,Chocolate Chip," 3,675 ",4/1/2020
+5,529578,Chocolate Chip," 1,094 ",6/1/2020
+3,171515,Chocolate Chip," 1,227 ",10/1/2020
+2,266313,Chocolate Chip, 367 ,10/1/2019
+2,205484,Chocolate Chip," 1,324 ",11/1/2020
+3,839631,Chocolate Chip," 1,775 ",11/1/2019
+4,307196,Chocolate Chip," 2,797 ",12/1/2020
+5,123431,Chocolate Chip, 973 ,3/1/2020
+4,429472,Chocolate Chip," 1,038 ",6/1/2020
+2,336267,Chocolate Chip, 360 ,10/1/2020
+3,686651,Chocolate Chip, 386 ,10/1/2019
+5,761356,Chocolate Chip," 1,954 ",3/1/2020
+4,197639,Chocolate Chip, 591 ,5/1/2020
+3,712767,Chocolate Chip," 2,167 ",10/1/2019
+3,565251,Chocolate Chip, 241 ,10/1/2020
+3,436809,Chocolate Chip," 2,532 ",4/1/2020
+3,294935,Chocolate Chip," 1,198 ",10/1/2019
+3,103317,Chocolate Chip, 873 ,1/1/2020
+3,667288,Chocolate Chip," 1,122 ",3/1/2020
+3,735406,Chocolate Chip," 2,105 ",7/1/2020
+3,253399,Chocolate Chip," 4,026 ",7/1/2020
+2,146841,Chocolate Chip," 2,426 ",7/1/2020
+4,466133,Chocolate Chip," 2,394 ",8/1/2020
+3,159484,Chocolate Chip," 1,984 ",8/1/2020
+3,120842,Chocolate Chip," 2,441 ",10/1/2020
+2,440377,Chocolate Chip," 2,992 ",10/1/2019
+3,781275,Chocolate Chip," 1,366 ",11/1/2020
+3,607709,Chocolate Chip, 380 ,9/1/2019
+2,628402,Chocolate Chip," 3,495 ",1/1/2020
+5,249663,Chocolate Chip, 886 ,6/1/2020
+5,714255,Chocolate Chip," 2,156 ",10/1/2020
+3,170514,Chocolate Chip, 905 ,10/1/2020
+2,885201,Chocolate Chip," 1,715 ",10/1/2019
+5,559510,Chocolate Chip," 1,594 ",11/1/2020
+2,259455,Chocolate Chip," 1,359 ",11/1/2020
+2,389356,Chocolate Chip," 2,150 ",11/1/2020
+3,582048,Chocolate Chip," 1,197 ",11/1/2020
+4,737790,Chocolate Chip, 380 ,12/1/2019
+5,514463,Chocolate Chip," 1,233 ",12/1/2020
+3,143923,Chocolate Chip," 1,531 ",12/1/2020
+3,710711,Chocolate Chip," 1,439 ",1/1/2020
+5,608863,Chocolate Chip, 807 ,1/1/2020
+3,388978,Chocolate Chip," 2,641 ",2/1/2020
+2,209116,Chocolate Chip," 2,708 ",2/1/2020
+2,123693,Chocolate Chip," 2,632 ",6/1/2020
+4,670662,Chocolate Chip," 1,583 ",6/1/2020
+4,868182,Chocolate Chip, 571 ,7/1/2020
+3,121808,Chocolate Chip," 2,696 ",8/1/2020
+5,626543,Chocolate Chip," 1,565 ",10/1/2020
+3,374010,Chocolate Chip," 1,249 ",10/1/2020
+3,448428,Chocolate Chip, 357 ,11/1/2020
+4,721092,Chocolate Chip," 1,013 ",12/1/2020
+3,217341,Chocolate Chip, 278 ,2/1/2020
+4,442121,Chocolate Chip," 2,428 ",3/1/2020
+4,544855,Chocolate Chip," 1,767 ",9/1/2020
+2,158597,Chocolate Chip," 1,393 ",10/1/2020
+3,358353,Chocolate Chip, 260 ,2/1/2020
+3,864409,Chocolate Chip," 2,470 ",9/1/2019
+2,520865,Chocolate Chip," 1,743 ",10/1/2019
+3,898886,Chocolate Chip," 2,914 ",10/1/2020
+2,429735,Chocolate Chip," 1,731 ",10/1/2020
+5,778322,Chocolate Chip, 700 ,11/1/2020
+4,754823,Chocolate Chip," 2,222 ",11/1/2019
+3,763666,Chocolate Chip," 1,177 ",11/1/2020
+5,364025,Chocolate Chip," 1,922 ",11/1/2019
+4,690780,Chocolate Chip," 1,158 ",3/1/2020
+3,216326,Chocolate Chip," 1,614 ",4/1/2020
+3,844763,Chocolate Chip," 2,535 ",4/1/2020
+4,251968,Chocolate Chip," 2,851 ",5/1/2020
+3,408804,Chocolate Chip," 2,559 ",8/1/2020
+3,609851,Chocolate Chip, 267 ,10/1/2019
+2,332447,Chocolate Chip," 1,085 ",10/1/2020
+2,837170,Chocolate Chip," 1,175 ",10/1/2020
+5,117162,Chocolate Chip," 2,007 ",11/1/2019
+3,708450,Chocolate Chip," 2,151 ",11/1/2019
+5,855262,Chocolate Chip, 914 ,12/1/2020
+4,809091,Chocolate Chip, 293 ,12/1/2020
+4,170761,Chocolate Chip, 723 ,4/1/2020
+3,203604,Fortune Cookie, 921 ,3/1/2020
+3,830805,Fortune Cookie," 2,518 ",6/1/2020
+5,138739,Fortune Cookie," 1,899 ",6/1/2020
+2,830819,Fortune Cookie," 1,545 ",6/1/2020
+4,249098,Fortune Cookie," 2,470 ",6/1/2020
+4,252717,Fortune Cookie," 2,666 ",7/1/2020
+3,440487,Fortune Cookie, 958 ,8/1/2020
+4,366159,Fortune Cookie," 2,146 ",9/1/2020
+5,439030,Fortune Cookie, 345 ,10/1/2019
+3,227728,Fortune Cookie, 615 ,12/1/2020
+2,353832,Fortune Cookie," 2,214 ",3/1/2020
+4,142538,Fortune Cookie," 2,301 ",4/1/2020
+4,892418,Fortune Cookie," 1,376 ",7/1/2020
+4,459280,Fortune Cookie," 1,830 ",8/1/2020
+3,539666,Fortune Cookie," 2,498 ",9/1/2019
+5,625570,Fortune Cookie, 663 ,10/1/2019
+3,652401,Fortune Cookie," 1,142 ",6/1/2020
+1,326089,Fortune Cookie," 1,566 ",10/1/2020
+3,676869,Fortune Cookie, 690 ,11/1/2020
+4,113657,Fortune Cookie," 1,660 ",11/1/2019
+5,570270,Fortune Cookie," 1,958 ",2/1/2020
+2,445507,Fortune Cookie," 1,901 ",6/1/2020
+2,154432,Fortune Cookie, 544 ,9/1/2020
+5,806978,Fortune Cookie," 1,797 ",9/1/2019
+3,637451,Fortune Cookie," 1,287 ",12/1/2020
+3,494228,Fortune Cookie," 1,706 ",12/1/2020
+1,801641,Fortune Cookie," 2,031 ",10/1/2020
+4,823953,Fortune Cookie," 1,967 ",3/1/2020
+3,539522,Fortune Cookie," 1,859 ",8/1/2020
+3,873031,Fortune Cookie," 2,851 ",10/1/2019
+4,574744,Fortune Cookie," 2,021 ",10/1/2020
+4,130685,Fortune Cookie," 1,138 ",12/1/2020
+3,150704,Fortune Cookie," 1,159 ",10/1/2019
+3,779079,Fortune Cookie," 1,385 ",1/1/2020
+4,746705,Fortune Cookie," 3,627 ",7/1/2020
+4,594945,Fortune Cookie, 720 ,9/1/2019
+4,454312,Fortune Cookie," 2,342 ",11/1/2020
+1,830981,Fortune Cookie," 1,100 ",12/1/2019
+1,503244,Fortune Cookie, 980 ,4/1/2020
+2,199458,Fortune Cookie," 1,460 ",5/1/2020
+4,294390,Fortune Cookie," 1,403 ",10/1/2019
+5,128675,Fortune Cookie," 2,723 ",11/1/2020
+3,215754,Fortune Cookie," 1,757 ",10/1/2019
+2,336365,Fortune Cookie," 2,340 ",1/1/2020
+1,818777,Fortune Cookie," 2,342 ",11/1/2020
+4,757336,Fortune Cookie," 1,976 ",10/1/2020
+1,444955,Fortune Cookie," 2,181 ",10/1/2020
+4,443834,Fortune Cookie," 2,500 ",11/1/2019
+5,119754,Fortune Cookie, 488 ,2/1/2020
+1,173001,Fortune Cookie," 1,282 ",6/1/2020
+2,179673,Fortune Cookie," 2,501 ",3/1/2020
+5,123331,Fortune Cookie, 708 ,6/1/2020
+4,219898,Fortune Cookie, 645 ,7/1/2020
+3,141979,Fortune Cookie," 1,562 ",8/1/2020
+3,781308,Fortune Cookie," 1,283 ",9/1/2019
+5,711452,Fortune Cookie, 711 ,12/1/2020
+4,156617,Fortune Cookie," 3,803 ",4/1/2020
+2,487819,Fortune Cookie," 1,666 ",5/1/2020
+2,503591,Fortune Cookie, 322 ,9/1/2019
+4,272243,Fortune Cookie," 2,321 ",11/1/2020
+3,431913,Fortune Cookie," 1,857 ",11/1/2019
+2,270516,Fortune Cookie," 1,611 ",12/1/2019
+3,390387,Fortune Cookie," 2,797 ",12/1/2020
+5,254540,Fortune Cookie, 334 ,12/1/2019
+3,724808,Fortune Cookie," 2,328 ",9/1/2020
+3,561083,Fortune Cookie," 2,313 ",5/1/2020
+5,352793,Fortune Cookie," 1,804 ",11/1/2019
+5,742570,Fortune Cookie," 2,072 ",12/1/2020
+5,121208,Fortune Cookie, 766 ,1/1/2020
+5,644686,Fortune Cookie," 2,992 ",10/1/2019
+1,881771,Fortune Cookie," 2,157 ",12/1/2020
+3,517456,Fortune Cookie, 677 ,3/1/2020
+2,433556,Fortune Cookie," 1,773 ",4/1/2020
+4,741765,Fortune Cookie," 2,420 ",9/1/2020
+2,533611,Fortune Cookie," 2,734 ",10/1/2020
+2,347412,Fortune Cookie," 1,715 ",10/1/2019
+1,469636,Fortune Cookie," 1,186 ",12/1/2019
+1,200053,Fortune Cookie," 2,661 ",5/1/2020
+1,348844,Fortune Cookie, 983 ,1/1/2020
+2,541297,Fortune Cookie," 1,298 ",2/1/2020
+5,280321,Fortune Cookie, 604 ,6/1/2020
+3,434964,Fortune Cookie," 2,255 ",7/1/2020
+3,505218,Fortune Cookie," 1,249 ",10/1/2020
+4,715966,Fortune Cookie, 293 ,2/1/2020
+3,295198,Fortune Cookie," 2,996 ",10/1/2019
+5,529423,Fortune Cookie," 2,228 ",1/1/2020
+5,721311,Fortune Cookie," 1,199 ",4/1/2020
+2,205221,Fortune Cookie, 200 ,5/1/2020
+2,397049,Fortune Cookie, 388 ,9/1/2020
+4,164574,Fortune Cookie," 1,727 ",10/1/2019
+3,138137,Fortune Cookie," 2,300 ",12/1/2020
+2,894001,Fortune Cookie, 546 ,10/1/2020
+4,605154,Fortune Cookie," 1,368 ",2/1/2020
+3,736328,Oatmeal Raisin," 2,750 ",2/1/2020
+3,731074,Oatmeal Raisin," 1,953 ",4/1/2020
+4,739483,Oatmeal Raisin," 4,220 ",4/1/2020
+3,609228,Oatmeal Raisin," 1,899 ",6/1/2020
+3,754791,Oatmeal Raisin," 1,686 ",7/1/2020
+2,348619,Oatmeal Raisin," 2,141 ",8/1/2020
+3,170867,Oatmeal Raisin," 1,143 ",10/1/2020
+2,183779,Oatmeal Raisin, 615 ,12/1/2020
+4,304546,Oatmeal Raisin," 1,989 ",9/1/2019
+4,182735,Oatmeal Raisin, 321 ,11/1/2019
+3,150101,Oatmeal Raisin, 259 ,3/1/2020
+3,604462,Oatmeal Raisin," 1,101 ",3/1/2020
+4,655952,Oatmeal Raisin," 2,276 ",5/1/2020
+3,253215,Oatmeal Raisin," 2,966 ",10/1/2019
+2,734809,Oatmeal Raisin," 1,236 ",11/1/2020
+2,544809,Oatmeal Raisin, 941 ,11/1/2020
+3,580583,Oatmeal Raisin," 1,916 ",12/1/2020
+4,283163,Oatmeal Raisin," 1,865 ",2/1/2020
+4,558408,Oatmeal Raisin," 1,074 ",4/1/2020
+3,788478,Oatmeal Raisin," 1,907 ",9/1/2020
+4,397008,Oatmeal Raisin, 671 ,10/1/2019
+2,733366,Oatmeal Raisin," 1,778 ",12/1/2019
+3,602865,Oatmeal Raisin," 1,683 ",7/1/2020
+2,304458,Oatmeal Raisin," 1,123 ",8/1/2020
+3,151329,Oatmeal Raisin," 1,159 ",10/1/2019
+3,357838,Oatmeal Raisin," 1,350 ",2/1/2020
+4,399302,Oatmeal Raisin, 552 ,8/1/2020
+3,117166,Oatmeal Raisin," 1,228 ",10/1/2019
+2,707082,Oatmeal Raisin," 1,250 ",12/1/2020
+4,131249,Oatmeal Raisin," 1,988 ",1/1/2020
+3,551372,Oatmeal Raisin," 1,679 ",9/1/2020
+3,698573,Oatmeal Raisin, 727 ,10/1/2019
+3,504962,Oatmeal Raisin," 1,403 ",10/1/2019
+3,657776,Oatmeal Raisin," 2,076 ",10/1/2019
+5,691342,Oatmeal Raisin," 1,135 ",6/1/2020
+3,493427,Oatmeal Raisin," 1,645 ",5/1/2020
+3,271981,Oatmeal Raisin," 2,876 ",9/1/2020
+3,766207,Oatmeal Raisin, 994 ,9/1/2019
+2,653226,Oatmeal Raisin," 1,118 ",11/1/2020
+5,560670,Oatmeal Raisin," 1,372 ",12/1/2020
+3,786700,Oatmeal Raisin," 1,282 ",6/1/2020
+4,137921,Oatmeal Raisin, 708 ,6/1/2020
+3,755930,Oatmeal Raisin," 2,907 ",6/1/2020
+3,277131,Oatmeal Raisin," 1,366 ",6/1/2020
+3,235897,Oatmeal Raisin," 2,460 ",6/1/2020
+5,872307,Oatmeal Raisin," 1,520 ",11/1/2020
+5,103888,Oatmeal Raisin, 711 ,12/1/2020
+4,545954,Oatmeal Raisin," 1,375 ",12/1/2019
+3,480891,Oatmeal Raisin, 635 ,12/1/2020
+3,444725,Oatmeal Raisin," 2,071 ",9/1/2020
+4,131700,Oatmeal Raisin," 1,269 ",10/1/2020
+4,256775,Oatmeal Raisin, 970 ,11/1/2019
+3,686661,Oatmeal Raisin," 1,694 ",11/1/2020
+3,842675,Oatmeal Raisin," 1,038 ",6/1/2020
+4,571542,Oatmeal Raisin," 1,631 ",7/1/2020
+2,581556,Oatmeal Raisin, 306 ,12/1/2019
+4,884057,Oatmeal Raisin, 579 ,1/1/2020
+3,761022,Oatmeal Raisin," 2,240 ",2/1/2020
+3,215670,Oatmeal Raisin," 2,993 ",3/1/2020
+3,272552,Oatmeal Raisin," 3,521 ",4/1/2020
+4,120233,Oatmeal Raisin," 2,039 ",5/1/2020
+4,702523,Oatmeal Raisin," 2,574 ",8/1/2020
+3,267107,Oatmeal Raisin, 707 ,9/1/2020
+5,190154,Oatmeal Raisin," 2,072 ",12/1/2020
+3,681348,Oatmeal Raisin, 853 ,12/1/2020
+2,104326,Oatmeal Raisin," 3,200 ",7/1/2020
+4,323754,Oatmeal Raisin, 472 ,10/1/2020
+3,382237,Oatmeal Raisin," 3,165 ",1/1/2020
+4,424398,Oatmeal Raisin," 2,629 ",1/1/2020
+3,821698,Oatmeal Raisin," 1,433 ",5/1/2020
+2,550622,Oatmeal Raisin, 947 ,9/1/2019
+1,423355,Oatmeal Raisin, 344 ,10/1/2019
+5,441751,Oatmeal Raisin," 2,157 ",12/1/2020
+4,531656,Oatmeal Raisin, 270 ,2/1/2020
+3,261362,Oatmeal Raisin," 3,422 ",7/1/2020
+4,723364,Oatmeal Raisin," 2,734 ",10/1/2020
+4,519269,Oatmeal Raisin," 2,548 ",11/1/2019
+4,410583,Oatmeal Raisin," 2,761 ",9/1/2019
+1,665489,Oatmeal Raisin," 1,659 ",1/1/2020
+3,479703,Oatmeal Raisin," 1,190 ",6/1/2020
+1,148871,Oatmeal Raisin, 410 ,10/1/2020
+3,786473,Oatmeal Raisin," 1,770 ",12/1/2019
+3,540063,Oatmeal Raisin," 1,393 ",10/1/2020
+1,208984,Oatmeal Raisin," 2,015 ",12/1/2019
+3,858624,Oatmeal Raisin, 888 ,3/1/2020
+2,374115,Oatmeal Raisin," 2,844 ",5/1/2020
+4,140516,Oatmeal Raisin," 2,475 ",8/1/2020
+5,594129,Oatmeal Raisin," 1,743 ",10/1/2019
+5,841420,Oatmeal Raisin," 2,914 ",10/1/2020
+5,707748,Oatmeal Raisin," 1,731 ",10/1/2020
+1,225353,Oatmeal Raisin," 1,727 ",10/1/2019
+2,227896,Oatmeal Raisin," 1,870 ",11/1/2019
+3,683349,Oatmeal Raisin," 2,475 ",3/1/2020
+3,578917,Oatmeal Raisin, 546 ,10/1/2020
+1,194906,Snickerdoodle," 1,619 ",1/1/2020
+4,858867,Snickerdoodle," 1,321 ",1/1/2020
+5,649737,Snickerdoodle," 2,178 ",6/1/2020
+3,361699,Snickerdoodle, 888 ,6/1/2020
+1,293680,Snickerdoodle," 2,470 ",6/1/2020
+4,682634,Snickerdoodle," 1,513 ",12/1/2020
+3,161388,Snickerdoodle," 1,858 ",2/1/2020
+3,103112,Snickerdoodle," 1,210 ",3/1/2020
+5,406431,Snickerdoodle," 2,529 ",7/1/2020
+4,869055,Snickerdoodle," 1,445 ",9/1/2020
+3,616987,Snickerdoodle, 330 ,9/1/2019
+5,111799,Snickerdoodle," 2,671 ",9/1/2020
+3,576749,Snickerdoodle, 766 ,10/1/2019
+5,238485,Snickerdoodle, 494 ,10/1/2019
+4,128044,Snickerdoodle," 1,397 ",10/1/2020
+4,338090,Snickerdoodle," 2,155 ",12/1/2020
+1,178855,Snickerdoodle, 743 ,4/1/2020
+4,601636,Snickerdoodle," 1,295 ",10/1/2020
+1,893967,Snickerdoodle, 214 ,10/1/2019
+4,403455,Snickerdoodle," 2,145 ",11/1/2019
+1,866409,Snickerdoodle," 2,852 ",12/1/2020
+4,765655,Snickerdoodle," 4,244 ",4/1/2020
+1,732442,Snickerdoodle," 2,580 ",4/1/2020
+3,745878,Snickerdoodle, 689 ,6/1/2020
+3,863607,Snickerdoodle," 1,947 ",9/1/2020
+4,249563,Snickerdoodle, 908 ,12/1/2019
+1,355733,Snickerdoodle, 831 ,5/1/2020
+2,654585,Snickerdoodle," 2,851 ",10/1/2019
+4,725869,Snickerdoodle," 2,021 ",10/1/2020
+4,882680,Snickerdoodle, 274 ,12/1/2020
+3,449939,Snickerdoodle," 1,865 ",2/1/2020
+3,787606,Snickerdoodle," 1,116 ",2/1/2020
+2,295574,Snickerdoodle," 1,563 ",5/1/2020
+1,551997,Snickerdoodle, 991 ,6/1/2020
+2,296951,Snickerdoodle," 1,016 ",11/1/2019
+2,812448,Snickerdoodle," 2,791 ",11/1/2020
+2,539656,Snickerdoodle, 570 ,12/1/2020
+2,348955,Snickerdoodle," 2,487 ",12/1/2020
+4,137994,Snickerdoodle," 1,118 ",1/1/2020
+2,779393,Snickerdoodle," 2,844 ",6/1/2020
+4,443447,Snickerdoodle, 562 ,9/1/2020
+4,288662,Snickerdoodle," 2,299 ",10/1/2019
+4,768268,Snickerdoodle," 2,030 ",11/1/2020
+4,680427,Snickerdoodle, 263 ,11/1/2019
+3,847678,Snickerdoodle, 887 ,12/1/2019
+5,421883,Snickerdoodle, 727 ,2/1/2020
+1,572044,Snickerdoodle," 1,884 ",8/1/2020
+4,119027,Snickerdoodle," 1,834 ",9/1/2019
+1,345233,Snickerdoodle," 1,761 ",3/1/2020
+5,115306,Snickerdoodle, 448 ,6/1/2020
+2,310429,Snickerdoodle," 2,181 ",10/1/2020
+4,495847,Snickerdoodle," 1,540 ",8/1/2020
+2,297812,Snickerdoodle, 490 ,11/1/2020
+4,702657,Snickerdoodle," 1,362 ",12/1/2020
+3,629559,Snickerdoodle," 1,094 ",6/1/2020
+5,496752,Snickerdoodle, 367 ,10/1/2019
+5,273665,Snickerdoodle, 663 ,5/1/2020
+4,865204,Snickerdoodle, 819 ,7/1/2020
+2,203224,Snickerdoodle," 1,580 ",9/1/2020
+2,361276,Snickerdoodle, 521 ,12/1/2020
+4,395290,Snickerdoodle, 386 ,10/1/2019
+3,876370,Snickerdoodle," 3,446 ",4/1/2020
+3,788517,Snickerdoodle," 1,482 ",12/1/2019
+3,518063,Snickerdoodle," 1,198 ",10/1/2019
+1,241164,Snickerdoodle," 1,937 ",2/1/2020
+5,242657,Snickerdoodle, 792 ,3/1/2020
+2,327555,Snickerdoodle," 2,811 ",7/1/2020
+5,363487,Snickerdoodle," 2,441 ",10/1/2020
+3,607051,Snickerdoodle," 1,560 ",11/1/2019
+5,535522,Snickerdoodle," 2,706 ",11/1/2019
+4,533938,Snickerdoodle, 886 ,6/1/2020
+3,105566,Snickerdoodle," 2,416 ",9/1/2019
+4,694579,Snickerdoodle," 2,156 ",10/1/2020
+1,483789,Snickerdoodle," 2,689 ",11/1/2020
+3,728960,Snickerdoodle," 2,522 ",1/1/2020
+5,759173,Snickerdoodle," 2,567 ",6/1/2020
+3,602911,Snickerdoodle, 923 ,3/1/2020
+3,317699,Snickerdoodle," 1,790 ",3/1/2020
+3,676544,Snickerdoodle, 442 ,9/1/2019
+4,455417,Snickerdoodle," 2,579 ",4/1/2020
+3,759484,Snickerdoodle," 1,743 ",5/1/2020
+1,727283,Snickerdoodle," 2,996 ",10/1/2019
+4,684001,Snickerdoodle, 280 ,12/1/2020
+5,372739,Snickerdoodle, 801 ,7/1/2020
+1,285799,Snickerdoodle," 1,023 ",9/1/2019
+2,289035,Snickerdoodle," 1,496 ",10/1/2020
+5,411519,Snickerdoodle," 1,010 ",10/1/2020
+3,199710,Snickerdoodle," 1,513 ",11/1/2020
+4,632637,Snickerdoodle," 2,300 ",12/1/2020
+4,384743,Snickerdoodle," 2,821 ",12/1/2019
+1,819278,Snickerdoodle," 1,174 ",8/1/2020
+4,858434,Snickerdoodle," 2,767 ",8/1/2020
+4,329257,Snickerdoodle," 1,085 ",10/1/2020
+3,793118,Sugar," 2,001 ",2/1/2020
+3,355287,Sugar," 2,838 ",4/1/2020
+2,246621,Sugar," 2,178 ",6/1/2020
+3,641259,Sugar, 888 ,6/1/2020
+1,587301,Sugar," 1,527 ",9/1/2019
+5,505496,Sugar," 2,151 ",9/1/2020
+4,745887,Sugar," 1,817 ",12/1/2020
+5,514091,Sugar," 1,326 ",3/1/2020
+4,735280,Sugar, 263 ,3/1/2020
+1,540473,Sugar, 944 ,4/1/2020
+1,327845,Sugar, 727 ,6/1/2020
+3,460452,Sugar, 787 ,6/1/2020
+2,354480,Sugar, 986 ,9/1/2020
+3,243929,Sugar, 494 ,10/1/2019
+2,791359,Sugar," 1,397 ",10/1/2020
+5,275167,Sugar," 1,744 ",11/1/2020
+5,160577,Sugar, 662 ,6/1/2020
+5,827058,Sugar, 214 ,10/1/2019
+4,439635,Sugar," 2,877 ",10/1/2020
+4,752965,Sugar," 2,729 ",12/1/2020
+5,454417,Sugar, 266 ,12/1/2019
+2,434482,Sugar," 1,940 ",12/1/2019
+1,632111,Sugar," 2,844 ",2/1/2020
+3,703612,Sugar," 1,916 ",4/1/2020
+2,358173,Sugar," 1,570 ",6/1/2020
+2,149767,Sugar," 1,874 ",8/1/2020
+4,108848,Sugar," 1,642 ",8/1/2020
+4,623371,Sugar," 1,945 ",10/1/2019
+2,444395,Sugar," 2,479 ",1/1/2020
+5,818048,Sugar, 866 ,5/1/2020
+1,581507,Sugar, 349 ,9/1/2019
+1,144559,Sugar," 2,177 ",10/1/2020
+3,592176,Sugar," 1,514 ",10/1/2019
+5,639651,Sugar," 2,689 ",10/1/2020
+5,426898,Sugar," 1,389 ",10/1/2019
+3,646205,Sugar," 1,265 ",11/1/2019
+1,872775,Sugar," 2,297 ",11/1/2019
+2,774130,Sugar," 2,663 ",12/1/2020
+2,899502,Sugar, 570 ,12/1/2020
+5,792599,Sugar," 2,487 ",12/1/2020
+2,701669,Sugar," 2,844 ",6/1/2020
+5,721252,Sugar," 1,498 ",6/1/2020
+2,425472,Sugar," 1,221 ",10/1/2019
+5,441711,Sugar," 1,123 ",11/1/2019
+5,562962,Sugar," 2,436 ",12/1/2019
+4,666684,Sugar," 1,153 ",10/1/2020
+2,361541,Sugar," 1,739 ",4/1/2020
+5,899556,Sugar," 2,215 ",9/1/2019
+1,628954,Sugar," 1,582 ",12/1/2020
+5,617395,Sugar," 3,245 ",1/1/2020
+5,619210,Sugar, 959 ,2/1/2020
+5,210209,Sugar," 2,747 ",2/1/2020
+3,324307,Sugar, 575 ,4/1/2020
+3,406234,Sugar," 2,338 ",6/1/2020
+3,464364,Sugar, 381 ,8/1/2020
+1,350494,Sugar, 422 ,8/1/2020
+4,711362,Sugar," 2,134 ",9/1/2020
+3,451947,Sugar, 808 ,12/1/2019
+2,633142,Sugar, 437 ,7/1/2020
+2,462436,Sugar," 1,956 ",1/1/2020
+5,184366,Sugar," 2,659 ",2/1/2020
+2,151130,Sugar," 1,352 ",4/1/2020
+3,747194,Sugar, 880 ,5/1/2020
+2,390355,Sugar," 1,867 ",9/1/2020
+1,594463,Sugar," 2,234 ",9/1/2019
+2,699845,Sugar," 1,227 ",10/1/2020
+3,867837,Sugar, 877 ,11/1/2020
+4,881898,Sugar, 360 ,10/1/2020
+4,750389,Sugar," 2,682 ",11/1/2019
+1,102288,Sugar, 521 ,12/1/2020
+5,727045,Sugar, 341 ,5/1/2020
+1,485947,Sugar, 641 ,7/1/2020
+2,363822,Sugar," 2,807 ",8/1/2020
+5,494850,Sugar, 432 ,9/1/2020
+2,540189,Sugar," 2,294 ",10/1/2019
+5,823956,Sugar," 2,167 ",10/1/2019
+2,820943,Sugar," 2,529 ",11/1/2020
+2,366080,Sugar," 1,870 ",12/1/2019
+5,565067,Sugar," 1,579 ",3/1/2020
+5,808356,Sugar," 1,005 ",9/1/2019
+2,153144,Sugar," 1,734 ",1/1/2020
+3,878522,Sugar, 554 ,1/1/2020
+2,856913,Sugar," 2,935 ",11/1/2019
+2,644843,Sugar," 2,109 ",5/1/2020
+1,219485,Sugar," 3,875 ",7/1/2020
+4,362208,Sugar, 623 ,9/1/2019
+1,305275,Sugar, 986 ,10/1/2020
+2,601126,Sugar," 2,387 ",11/1/2020
+3,871331,Sugar," 1,233 ",12/1/2020
+3,138905,Sugar," 1,491 ",3/1/2020
+4,521663,Sugar," 1,531 ",12/1/2020
+2,384410,Sugar," 2,567 ",6/1/2020
+2,561318,Sugar," 1,583 ",6/1/2020
+1,762271,Sugar," 1,565 ",10/1/2020
+3,528145,Sugar, 280 ,12/1/2020
+2,800536,Sugar," 2,903 ",3/1/2020
+3,444518,Sugar," 2,541 ",8/1/2020
+4,340032,Sugar, 269 ,10/1/2019
+2,356877,Sugar," 1,496 ",10/1/2020
+5,208723,Sugar," 1,010 ",10/1/2020
+5,510933,Sugar," 1,281 ",12/1/2019
+1,213778,Sugar, 866 ,7/1/2020
+4,414407,Sugar, 492 ,7/1/2020
+1,199727,Sugar, 267 ,10/1/2019
+2,330030,Sugar," 1,175 ",10/1/2020
+4,780393,Sugar," 2,954 ",11/1/2019
+4,483216,Sugar, 552 ,11/1/2020
+1,887151,Sugar, 293 ,12/1/2020
+3,559561,Sugar," 1,806 ",5/1/2020
+2,616386,White Chocolate Macadamia Nut," 1,493 ",1/1/2020
+4,775360,White Chocolate Macadamia Nut," 1,804 ",2/1/2020
+1,806592,White Chocolate Macadamia Nut," 2,161 ",3/1/2020
+4,552346,White Chocolate Macadamia Nut," 1,006 ",6/1/2020
+1,643742,White Chocolate Macadamia Nut," 1,545 ",6/1/2020
+1,685153,White Chocolate Macadamia Nut," 2,821 ",8/1/2020
+3,725066,White Chocolate Macadamia Nut, 345 ,10/1/2019
+3,584477,White Chocolate Macadamia Nut, 639 ,11/1/2020
+5,613058,White Chocolate Macadamia Nut," 3,864 ",4/1/2020
+1,729194,White Chocolate Macadamia Nut, 362 ,5/1/2020
+1,265959,White Chocolate Macadamia Nut, 923 ,8/1/2020
+5,196520,White Chocolate Macadamia Nut, 663 ,10/1/2019
+2,894331,White Chocolate Macadamia Nut," 2,092 ",11/1/2019
+2,149035,White Chocolate Macadamia Nut," 1,566 ",10/1/2020
+4,861720,White Chocolate Macadamia Nut," 2,966 ",10/1/2019
+2,426268,White Chocolate Macadamia Nut," 2,877 ",10/1/2020
+1,156941,White Chocolate Macadamia Nut, 809 ,10/1/2019
+2,431261,White Chocolate Macadamia Nut," 2,145 ",10/1/2019
+3,367956,White Chocolate Macadamia Nut," 1,055 ",12/1/2020
+5,214845,White Chocolate Macadamia Nut, 544 ,12/1/2019
+2,765978,White Chocolate Macadamia Nut," 1,084 ",12/1/2020
+4,899743,White Chocolate Macadamia Nut," 2,009 ",10/1/2020
+4,766402,White Chocolate Macadamia Nut," 3,851 ",4/1/2020
+4,455927,White Chocolate Macadamia Nut, 736 ,9/1/2019
+3,464499,White Chocolate Macadamia Nut," 1,465 ",3/1/2020
+4,558048,White Chocolate Macadamia Nut," 2,646 ",9/1/2019
+3,375461,White Chocolate Macadamia Nut," 2,177 ",10/1/2020
+4,673372,White Chocolate Macadamia Nut," 2,431 ",12/1/2020
+1,197116,White Chocolate Macadamia Nut, 555 ,1/1/2020
+5,165918,White Chocolate Macadamia Nut," 2,861 ",1/1/2020
+2,666752,White Chocolate Macadamia Nut, 807 ,2/1/2020
+4,192398,White Chocolate Macadamia Nut, 602 ,6/1/2020
+5,864063,White Chocolate Macadamia Nut," 2,832 ",8/1/2020
+3,355971,White Chocolate Macadamia Nut," 1,579 ",8/1/2020
+4,304806,White Chocolate Macadamia Nut, 861 ,10/1/2020
+5,295390,White Chocolate Macadamia Nut, 704 ,10/1/2019
+4,234670,White Chocolate Macadamia Nut," 1,033 ",12/1/2019
+2,553803,White Chocolate Macadamia Nut," 1,250 ",12/1/2020
+4,730844,White Chocolate Macadamia Nut, 952 ,2/1/2020
+3,218006,White Chocolate Macadamia Nut," 2,755 ",2/1/2020
+5,374150,White Chocolate Macadamia Nut," 1,530 ",5/1/2020
+2,250308,White Chocolate Macadamia Nut," 1,496 ",6/1/2020
+3,625104,White Chocolate Macadamia Nut," 1,498 ",6/1/2020
+3,669715,White Chocolate Macadamia Nut," 1,221 ",10/1/2019
+1,881268,White Chocolate Macadamia Nut," 2,076 ",10/1/2019
+5,263637,White Chocolate Macadamia Nut," 1,001 ",8/1/2020
+3,169621,White Chocolate Macadamia Nut," 1,333 ",11/1/2020
+3,636371,White Chocolate Macadamia Nut," 1,262 ",5/1/2020
+3,223911,White Chocolate Macadamia Nut," 1,135 ",6/1/2020
+3,433084,White Chocolate Macadamia Nut, 547 ,11/1/2020
+2,818350,White Chocolate Macadamia Nut," 1,582 ",12/1/2020
+1,614031,White Chocolate Macadamia Nut," 1,659 ",7/1/2020
+1,741049,White Chocolate Macadamia Nut, 609 ,8/1/2020
+1,529471,White Chocolate Macadamia Nut," 2,087 ",9/1/2020
+4,235009,White Chocolate Macadamia Nut," 1,976 ",10/1/2020
+2,562718,White Chocolate Macadamia Nut," 1,421 ",12/1/2019
+4,640346,White Chocolate Macadamia Nut," 1,372 ",12/1/2020
+3,629523,White Chocolate Macadamia Nut, 588 ,12/1/2019
+1,856865,White Chocolate Macadamia Nut, 598 ,3/1/2020
+3,567117,White Chocolate Macadamia Nut," 2,907 ",6/1/2020
+4,507642,White Chocolate Macadamia Nut," 2,338 ",6/1/2020
+4,289924,White Chocolate Macadamia Nut, 386 ,11/1/2019
+3,751314,White Chocolate Macadamia Nut, 635 ,12/1/2020
+1,847731,White Chocolate Macadamia Nut, 245 ,5/1/2020
+4,710702,White Chocolate Macadamia Nut," 3,794 ",7/1/2020
+4,696979,White Chocolate Macadamia Nut," 1,307 ",7/1/2020
+2,609418,White Chocolate Macadamia Nut, 567 ,9/1/2020
+5,764088,White Chocolate Macadamia Nut," 2,110 ",9/1/2020
+3,447945,White Chocolate Macadamia Nut," 1,269 ",10/1/2020
+2,751733,White Chocolate Macadamia Nut," 1,967 ",3/1/2020
+2,507202,White Chocolate Macadamia Nut," 2,628 ",4/1/2020
+1,311475,White Chocolate Macadamia Nut, 681 ,1/1/2020
+4,581762,White Chocolate Macadamia Nut, 510 ,4/1/2020
+1,217808,White Chocolate Macadamia Nut, 790 ,5/1/2020
+2,897372,White Chocolate Macadamia Nut, 639 ,7/1/2020
+3,748204,White Chocolate Macadamia Nut," 1,596 ",9/1/2020
+3,378254,White Chocolate Macadamia Nut," 2,294 ",10/1/2019
+2,775311,White Chocolate Macadamia Nut, 241 ,10/1/2020
+4,632477,White Chocolate Macadamia Nut," 2,665 ",11/1/2020
+2,482625,White Chocolate Macadamia Nut," 1,916 ",12/1/2019
+1,428131,White Chocolate Macadamia Nut, 853 ,12/1/2020
+3,120418,White Chocolate Macadamia Nut, 384 ,1/1/2020
+2,885051,White Chocolate Macadamia Nut, 472 ,10/1/2020
+1,494115,White Chocolate Macadamia Nut," 2,805 ",9/1/2019
+4,573970,White Chocolate Macadamia Nut, 655 ,9/1/2019
+5,403071,White Chocolate Macadamia Nut, 344 ,10/1/2019
+2,356550,White Chocolate Macadamia Nut," 1,808 ",11/1/2020
+2,638098,White Chocolate Macadamia Nut," 1,395 ",7/1/2020
+2,382008,White Chocolate Macadamia Nut, 986 ,10/1/2020
+3,234667,White Chocolate Macadamia Nut, 905 ,10/1/2020
+3,397386,White Chocolate Macadamia Nut," 3,998 ",1/1/2020
+4,488771,White Chocolate Macadamia Nut," 2,632 ",6/1/2020
+3,168032,White Chocolate Macadamia Nut," 1,190 ",6/1/2020
+1,135967,White Chocolate Macadamia Nut, 604 ,6/1/2020
+3,899629,White Chocolate Macadamia Nut, 660 ,9/1/2019
+1,617339,White Chocolate Macadamia Nut, 410 ,10/1/2020
+5,814769,White Chocolate Macadamia Nut," 2,605 ",11/1/2019
+3,758487,White Chocolate Macadamia Nut," 1,013 ",12/1/2020
+1,674043,White Chocolate Macadamia Nut," 1,575 ",2/1/2020
+1,349645,White Chocolate Macadamia Nut, 606 ,4/1/2020
+4,233911,White Chocolate Macadamia Nut," 2,460 ",7/1/2020
+2,867907,White Chocolate Macadamia Nut, 269 ,10/1/2019
+2,752353,White Chocolate Macadamia Nut," 2,536 ",11/1/2019
+1,600167,White Chocolate Macadamia Nut, 500 ,3/1/2020
+3,853295,White Chocolate Macadamia Nut," 2,826 ",5/1/2020
+2,253981,White Chocolate Macadamia Nut, 663 ,9/1/2020
+4,208456,White Chocolate Macadamia Nut," 2,574 ",11/1/2019
+4,727940,White Chocolate Macadamia Nut," 2,438 ",12/1/2019
+4,414628,White Chocolate Macadamia Nut, 914 ,12/1/2020

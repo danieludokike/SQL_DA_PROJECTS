@@ -1,0 +1,1001 @@
+Event.Date,Location,Country,Total.Fatal.Injuries
+1948-10-24,"MOOSE CREEK, ID","United States",2
+1962-07-19,"BRIDGEPORT, CA","United States",4
+1974-08-30,"Saltville, VA","United States",3
+1977-06-19,"EUREKA, CA","United States",2
+1979-08-02,"Canton, OH","United States",1
+1981-08-01,"COTTON, MN","United States",4
+1982-01-01,"PULLMAN, WA","United States",0
+1982-01-01,"EAST HANOVER, NJ","United States",0
+1982-01-01,"JACKSONVILLE, FL","United States",0
+1982-01-01,"HOBBS, NM","United States",0
+1982-01-01,"TUSKEGEE, AL","United States",0
+1982-01-02,"HOMER, LA","United States",0
+1982-01-02,"HEARNE, TX","United States",1
+1982-01-02,"CHICKASHA, OK","United States",1
+1982-01-02,"LITTLE ROCK, AR","United States",2
+1982-01-02,"MIDWAY, UT","United States",0
+1982-01-02,"SKWENTA, AK","United States",3
+2017-10-26,"Calgary Springbank, Canada",Canada,2
+1982-01-02,"GALETON, PA","United States",0
+1982-01-02,"MIAMI, FL","United States",0
+1982-01-02,"YPSILANTI, MI","United States",0
+1982-01-02,"CHARLOTTE, MI","United States",0
+1982-01-02,"CHAMBLEE, GA","United States",0
+1982-01-03,"VAN NUYS, CA","United States",0
+2017-10-27,"Tallahassee, FL","United States",0
+1982-01-03,"10 NM W LEE VIN, CA","United States",2
+2017-10-27,"West Seneca, NY","United States",0
+1982-01-03,"ASHLAND, VA","United States",8
+2017-10-28,"Kew, New South Wales, Australia",Australia,2
+1982-01-03,"PINEHURST, NC","United States",1
+1982-01-03,"WHITE PLAINS, NY","United States",0
+1982-01-03,"COCOA, FL","United States",0
+1982-01-03,"SAN CLEMENTINE, CA","United States",0
+1982-01-03,"FORT WORTH, TX","United States",0
+1982-01-03,"GREENOUGH, MT","United States",0
+1982-01-04,"PLEASANT HILL, OR","United States",4
+2017-10-28,"Mount Vernon, WA","United States",0
+1982-01-04,"NEAR LAS VEGAS, NV","United States",2
+1982-01-04,"FORT WAYNE, IN","United States",2
+1982-01-04,"ESTANCIA, NM","United States",0
+1982-01-04,"SAINT CROIX",,1
+1982-01-05,"RAMONA, CA","United States",3
+1982-01-05,"BLACK CANYON CI, AZ","United States",1
+1982-01-05,"ITHACA, NY","United States",2
+2017-10-28,"Chandler, AZ","United States",0
+1982-01-05,"PENSACOLA, FL","United States",0
+1982-01-05,"LONOKE, AR","United States",0
+2017-10-28,"Skwentna, AK","United States",0
+1982-01-05,"GASTONIA, NC","United States",0
+1982-01-05,"SPRINGERVILLE, AZ","United States",0
+2017-10-29,"Berlin, NH","United States",0
+2017-10-29,"Bremen, Germany",Germany,0
+1991-01-01,"PINCONNING, MI","United States",0
+1991-01-01,"JERSEYVILLE, IL","United States",0
+1991-01-01,"NEW HOLSTEIN, WI","United States",0
+2017-10-30,"Port Townsend, WA","United States",0
+1982-01-05,"BETHEL, AK","United States",0
+1982-01-06,"ROLLA, MO","United States",0
+1991-01-02,"RATTLESNAKE ISL, OH","United States",1
+1982-01-06,"MAMMOTH LAKES, CA","United States",0
+1982-01-06,"JACKSON, WY","United States",0
+1982-01-06,"PAXTON, IL","United States",0
+2017-10-30,"Dawsonville, GA","United States",0
+1982-01-06,"HILTON HEAD, SC","United States",0
+2017-10-30,"Selma, CA","United States",0
+1982-01-06,"NEAR BAKERSFIEL, CA","United States",0
+2017-10-31,"Whiteville, NC","United States",1
+1991-01-02,"CHESTERFIELD, MO","United States",0
+2017-10-31,"Namur, Belgium",Belgium,0
+1982-01-07,"HELENA, MT","United States",2
+1982-01-07,"WESTMINISTER, MD","United States",0
+1991-01-02,"LA GRANGE, GA","United States",0
+1982-01-07,"LAREDO, TX","United States",0
+1991-01-02,"DELAND, FL","United States",0
+1982-01-08,"ODESSA, FL","United States",1
+1991-01-03,"GLENDALE, CA","United States",1
+1982-01-08,"NEW PHILADELPHI, OH","United States",1
+1991-01-03,"DES MOINES, IA","United States",0
+2017-11-01,"Karachi, Pakistan",Pakistan,0
+1991-01-03,"PORT ORCHARD, WA","United States",1
+1982-01-08,"PULLMAN, WA","United States",0
+1982-01-08,"CUTCHOGUE, NY","United States",0
+1991-01-04,"COLUMBIA, OH","United States",0
+1982-01-08,"LIBERTY, MO","United States",0
+1991-01-04,"LUTZ, FL","United States",0
+1982-01-08,"PEORIA, IL","United States",0
+1991-01-04,"DEMING, NM","United States",0
+1982-01-08,"SANDUSKY, OH","United States",0
+1991-01-04,"BEMIDJI, MN","United States",0
+2017-11-02,"Montague, MA","United States",0
+1991-01-05,"HILO, HI","United States",0
+1982-01-08,"GRANTITEVILLE, SC","United States",0
+2017-11-02,"Thompson, Canada",Canada,0
+1982-01-09,"CALISTOGA, CA","United States",0
+1991-01-05,"MUSKOGEE, OK","United States",6
+2017-11-02,"Redding, CA","United States",0
+1982-01-09,"NAPA, CA","United States",0
+1991-01-05,"WASILLA, AK","United States",0
+2017-11-03,"Las Vegas, NV","United States",0
+1982-01-09,"FRUIT VALE, TX","United States",0
+1991-01-06,"GALLIPOLIS, OH","United States",1
+1991-01-06,"SACRAMENTO, CA","United States",1
+1991-01-06,"FREEPORT, IL","United States",1
+1982-01-09,"TOMBALL, TX","United States",0
+1991-01-06,"UKIAH, CA","United States",0
+1991-01-06,"RED BLUFF, CA","United States",0
+2017-11-03,"Murphy, ID","United States",1
+1982-01-09,"MOKULEIA, HI","United States",0
+1991-01-06,"FT. ATKINSON, WI","United States",0
+1982-01-09,"STEAMBOAT SPRIN, CO","United States",0
+1991-01-07,"ST. MAARTEN I., Netherlands Antilles","Netherlands Antilles",2
+1982-01-10,"OKEECHOBEE, FL","United States",0
+1991-01-07,"KANSAS CITY, MO","United States",0
+1991-01-07,MISSING,MISSING,2
+2017-11-03,"Erwinna, PA","United States",0
+1991-01-09,"LA BELLE, FL","United States",0
+2017-11-04,"Alva, OK","United States",2
+1991-01-09,"SCOTTSDALE, AZ","United States",0
+2017-11-04,"Hatch, NM","United States",4
+1991-01-10,"BOSSIER CITY, LA","United States",2
+2017-11-05,"Las Vegas, NM","United States",0
+1982-01-10,"BULLHEAD CITY, AZ","United States",0
+1982-01-10,"WHEELING, IL","United States",0
+1982-01-10,"HENDERSON, NC","United States",1
+1982-01-10,"MOJAVE, CA","United States",0
+2017-11-05,"Batavia, OH","United States",0
+1982-01-10,"UPLAND, CA","United States",0
+1991-01-10,"RAMONA, CA","United States",0
+1982-01-10,"QUINHAGAK, AK","United States",0
+1991-01-10,"ELKHART, IN","United States",0
+1982-01-11,"NEAR BOZEMAN, MT","United States",0
+1991-01-11,"NACOGDOCHES, TX","United States",0
+1982-01-11,"RIVERTON, WY","United States",4
+1991-01-11,"PAGELAND, SC","United States",2
+2017-11-05,"St Mary's, KS","United States",0
+1982-01-11,"SAQUACHE, CO","United States",0
+1991-01-11,"OKEECHOBEE, FL","United States",0
+1982-01-11,"AUBURN, AL","United States",0
+2017-11-06,"Larchwood, IA","United States",0
+1991-01-11,"TORRANCE, CA","United States",0
+1982-01-12,"CHICAGO, IL","United States",0
+1991-01-11,"VICHY, MO","United States",0
+2017-11-06,"Krasny Pakhar village, Russia",Russia,0
+1982-01-12,"CLARKSBURG, WV","United States",0
+2017-11-07,"Clearwater, FL","United States",1
+1991-01-11,"ST. CLOUD, MN","United States",0
+1982-01-12,"ABERDEEN, MS","United States",0
+1991-01-12,"WOLF POINT, MT","United States",0
+1982-01-12,"ADDISON, TX","United States",0
+1991-01-12,"CAMARILLO, CA","United States",0
+1982-01-13,"MONTICELLO, FL","United States",0
+1991-01-12,"ASHLAND, NE","United States",0
+1982-01-13,"WASHINGTON, DC","United States",78
+1991-01-12,"CHADRON, NE","United States",0
+1982-01-13,"WATONGA, OK","United States",0
+1991-01-13,"TOOELE, UT","United States",0
+1982-01-13,"HOBBS, NM","United States",0
+1991-01-13,"MARSHALL, IL","United States",0
+2017-11-07,"Los Lunas, NM","United States",0
+1982-01-13,"SPOKANE, WA","United States",0
+1991-01-13,"BULLHEAD CITY, AZ","United States",0
+1982-01-15,"28 MI ENE OGDEN, UT","United States",3
+1991-01-13,"SPRINGBROOK, WI","United States",0
+1982-01-15,"MALONE, FL","United States",0
+1991-01-13,"SO. SIOUX CITY, NE","United States",0
+1982-01-15,"S.E. OF MALTA, ID","United States",0
+1982-01-15,"SPOKANE, WA","United States",0
+1991-01-14,,Montserrat,1
+1982-01-15,"JAMAICA, NY","United States",0
+1991-01-14,"NEWCASTLE, OK","United States",4
+2017-11-07,"Seattle, WA","United States",0
+1991-01-14,"BOLIVAR, TN","United States",0
+1982-01-15,"ANOKA, MN","United States",0
+1982-01-15,"NEAR NUIQSUT, AK","United States",0
+2017-11-07,"Rolling Fork, MS","United States",0
+1991-01-15,"HAYWARD, CA","United States",1
+1982-01-16,"HOUMA, LA","United States",1
+2017-11-07,"Bonners Ferry, ID","United States",0
+1991-01-15,"FAYETTE, MO","United States",1
+1982-01-16,"SWANTON, VT","United States",0
+1982-01-17,"DAVIS, CA","United States",1
+2017-11-07,"Sulphur, LA","United States",2
+1991-01-15,"TOMAHAWK, WI","United States",1
+1982-01-17,"MOJAVE, CA","United States",1
+1991-01-15,"ELLENDALE, DE","United States",0
+1982-01-17,"SUNFLOWER, AZ","United States",0
+1991-01-15,"NOME, AK","United States",0
+1982-01-17,"HONOLULU, HI","United States",0
+1982-01-17,"PORT MANSFIELD, TX","United States",1
+1982-01-17,"DELTA, UT","United States",0
+1982-01-17,"PICAYUNE, MS","United States",2
+1982-01-17,"ANCHORAGE, AK","United States",0
+2017-11-08,"Morrison, TN","United States",2
+1982-01-17,"CEDAR CITY, UT","United States",0
+1982-01-17,"TULUKSAK, AK","United States",0
+1982-01-17,"CENTERVILLE, AL","United States",0
+1982-01-18,"ORCHARDS, WA","United States",0
+1991-01-15,"CHELAN, WA","United States",0
+1982-01-18,"DOWNIEVILLE, CA","United States",1
+1991-01-15,"CHARLESTON, WV","United States",0
+1982-01-18,"BLAIRSVILLE, GA","United States",3
+2017-11-08,"Union City, TN","United States",0
+1991-01-16,"WALLA WALLA, WA","United States",0
+1982-01-18,"S.E. OF HOUMA, LA","United States",0
+1982-01-18,"MADISON COUNTY, AL","United States",4
+1991-01-16,"NEW SMYRNA BCH, FL","United States",0
+2017-11-08,"Johannesburg, South Africa","South Africa",0
+1982-01-19,"CEDAR VALE, KS","United States",1
+1991-01-16,"ARCADIA, CA","United States",0
+2017-11-08,"Macon, GA","United States",0
+1982-01-19,"STILLWATER, OK","United States",2
+2017-11-08,"Carroll, OH","United States",0
+1982-01-19,"WOLF PT., MT","United States",1
+1991-01-16,"HOUSTON, TX","United States",0
+1991-01-17,"BROOKLINE, NH","United States",2
+1982-01-19,"ROCKPORT, TX","United States",3
+1991-01-17,"LANTANA, FL","United States",4
+1982-01-19,"ROCKPORT, TX","United States",3
+1991-01-17,"MIAMI, FL","United States",0
+1982-01-19,"WASHINGTON, DC","United States",0
+1991-01-17,"CROWLEY, TX","United States",0
+1982-01-19,"SOMERSET, PA","United States",0
+1982-01-19,"ENFIELD, NH","United States",0
+2017-11-08,"Harvard, IL","United States",0
+1991-01-18,"MOKULEIA, HI","United States",0
+1991-01-18,"PATTERSON, LA","United States",1
+1991-01-18,"CHICAGO, IL","United States",0
+1991-01-18,"ARDEN, NC","United States",1
+2017-11-09,"Trenton, NJ","United States",0
+1991-01-18,"ROLLA, ND","United States",0
+2017-11-10,"Pineville, LA","United States",1
+1991-01-18,"TWO MOON BAY, AK","United States",0
+1982-01-19,"TOPEKA, KS","United States",0
+1991-01-19,"SHERBURNE, VT","United States",0
+1982-01-19,"URBANDALE, IA","United States",0
+1991-01-19,"MILFORD, MI","United States",1
+2017-11-10,"Annapolis, MD","United States",0
+1982-01-19,"KINGMAN, AZ","United States",0
+1991-01-19,"LAFAYETTE, TN","United States",2
+2017-11-10,"Panama City, FL","United States",0
+1982-01-19,"SANTA MONICA, CA","United States",0
+1991-01-19,"BESSEMER, AL","United States",4
+1982-01-19,"SHREVEPORT, LA","United States",0
+1991-01-19,"PRINCETON, OR","United States",0
+2017-11-10,"Goias, Brazil",Brazil,0
+1991-01-19,"ORLANDO, FL","United States",0
+2017-11-11,"Maastricht, Netherlands (the)",Netherlands,0
+1991-01-19,"BAKERSFIELD, CA","United States",0
+1982-01-19,"NEAR LANSING, MI","United States",0
+2017-11-11,"Page, AZ","United States",0
+1991-01-19,"MANCOS, CO","United States",1
+1982-01-19,"GRAND RAPIDS, MI","United States",0
+2017-11-11,"Burlington, WA","United States",0
+1991-01-19,"CABOOL, MO","United States",0
+2017-11-11,"EUFAULA, AL","United States",0
+1982-01-19,"MIAMI, FL","United States",0
+1991-01-19,"HAYS, KS","United States",0
+1982-01-19,"TUNTUTULIAK, AK","United States",0
+2017-11-12,"Sun Lakes, AZ","United States",0
+1991-01-19,"SO. PASS BLK 70",,3
+1982-01-20,"SAN JOSE, CA","United States",0
+1991-01-20,"ST. PAUL, MN","United States",0
+2017-11-12,"Tucson, AZ","United States",0
+1991-01-20,"EAU CLAIRE, WI","United States",0
+2017-11-12,"Fountain Run, KY","United States",4
+1991-01-20,"CHESTERFIELD, MO","United States",0
+2017-11-12,"Grayslake, IL","United States",0
+1991-01-20,"FREDERICKSBURG, VA","United States",0
+1982-01-20,"CHERRY VALLEY, CA","United States",2
+2017-11-13,"Oceanic, United Kingdom","United Kingdom",0
+1991-01-21,"SACRAMENTO, CA","United States",0
+1982-01-20,"ESCONDIDO, CA","United States",3
+1991-01-21,"ALDERWOOD MANOR, WA","United States",0
+2017-11-14,"Columbus, OH","United States",0
+1991-01-21,"TULSA, OK","United States",0
+1982-01-20,"MCCOMB, MS","United States",1
+1991-01-21,"ERSKINE, MN","United States",0
+2017-11-14,"Itapolis, Brazil",Brazil,1
+1982-01-20,"ORLANDO, FL","United States",1
+1991-01-21,"ANAHEIM, CA","United States",0
+1982-01-20,"MIDLAND, TX","United States",0
+2017-11-15,"Rock Springs, WY","United States",0
+1991-01-22,"STROUDSBURG, PA","United States",0
+2017-11-15,"Ngorongoro, Tanzania, United Republic of",Tanzania,11
+1991-01-22,"LANSING, IL","United States",0
+1982-01-20,"BONDURANT, WY","United States",0
+2017-11-16,"Singapore, Senegal",Senegal,0
+1991-01-23,"BRUNSWICK, GA","United States",1
+1982-01-21,"BOISE, ID","United States",4
+2017-11-16,"Melborne, FL","United States",0
+1991-01-23,"CELINA, OH","United States",0
+1991-01-23,"CLEVELAND, OH","United States",0
+2017-11-16,"Opa Locka, FL","United States",0
+1982-01-21,"NORTH KANSAS CI, MO","United States",1
+1982-01-21,"15NM W. OPA LOC, FL","United States",0
+1991-01-23,"ENID, OK","United States",0
+2017-11-16,"Pompano, FL","United States",0
+1982-01-21,"BAGDAD, AZ","United States",0
+1991-01-23,"WARM SPRINGS, GA","United States",0
+2017-11-17,"Nipton, CA","United States",0
+1991-01-24,"BATAVIA, NY","United States",1
+2017-11-17,"Statesville, NC","United States",0
+1982-01-21,"10NM N. OF MCNA, AZ","United States",1
+1991-01-24,"FORT MYERS, FL","United States",0
+2017-11-17,"Oak Island, NC","United States",0
+1982-01-21,"NEW ALBANY, MS","United States",1
+1991-01-24,"FERNANDINA BCH, FL","United States",0
+1991-01-24,"PHOENIX, AZ","United States",0
+1982-01-21,"MUSCLE SHOALS, AL","United States",0
+1991-01-24,"MIDDLETON, WI","United States",0
+1982-01-21,"PORT GRAHAM, AK","United States",0
+1982-01-21,"SHELL LAKE, WI","United States",0
+1991-01-25,"SHOW LOW, AZ","United States",0
+1982-01-21,"DOS PALOS, CA","United States",0
+1991-01-25,"INDIANAPOLIS, IN","United States",0
+1982-01-22,"LANCASTER, CA","United States",2
+1982-01-22,"LOUISVILLE, KY","United States",0
+1991-01-25,"CAYUCOS, CA","United States",0
+1982-01-22,"CARSON CITY, NV","United States",0
+2017-11-18,"Bladenboro, NC","United States",0
+1991-01-25,"SCOTTSDALE, AZ","United States",0
+1982-01-22,"NEAR KINGSTON, ID","United States",0
+1982-01-23,"LAPINE, OR","United States",1
+1991-01-26,"SONESTOWN, PA","United States",4
+1982-01-23,"VICTORVILLE, CA","United States",2
+1991-01-26,"SACRAMENTO, CA","United States",1
+1982-01-23,"HOBBS, NM","United States",0
+1991-01-26,"OLTON, TX","United States",1
+1982-01-23,"BOSTON, MA","United States",2
+1982-01-23,"LONDON, OH","United States",1
+1991-01-26,"WILLIAMSTOWN, MA","United States",0
+1982-01-23,"TOPEKA, KS","United States",0
+1991-01-26,"ROCHESTER, MN","United States",0
+1982-01-23,"NEWPORT RICHEY, FL","United States",0
+2017-11-18,"Emerald Aerodrome, Australia",Australia,0
+1982-01-23,"NEWPORT RICHEY, FL","United States",0
+1991-01-26,"ROCHESTER, IN","United States",0
+1982-01-23,"VICTORVILLE, CA","United States",2
+1991-01-27,"OWAYHEE, NV","United States",0
+2017-11-19,"Casa Grande, AZ","United States",0
+1982-01-23,"SAGINAW, TX","United States",0
+1982-01-23,"36 SW LARAMIE, WY","United States",0
+2017-11-19,"Chico, CA","United States",0
+2017-11-19,"Clearwater, FL","United States",0
+1982-01-23,"WATSONVILLE, CA","United States",0
+1982-01-23,"HOUSTON, TX","United States",0
+1982-01-24,"LAREDO, TX","United States",7
+1982-01-24,"TAUNTON, MA","United States",0
+1982-01-24,"FLAGSTAFF, AZ","United States",0
+1991-01-27,"OPPELLA, AR","United States",1
+1982-01-24,"WHEELING, IL","United States",0
+1982-01-24,"ATHENS, GA","United States",0
+1991-01-27,"BRYSON CITY, NC","United States",1
+2017-11-19,"San Jose, CA","United States",0
+1982-01-25,"BETHEL, AK","United States",2
+1991-01-27,"ROUND LAKE, NY","United States",1
+1982-01-25,"ANCHORAGE, AK","United States",0
+1982-01-26,"MUSKOGEE, OK","United States",0
+1991-01-27,"TITUSVILLE, FL","United States",0
+1991-01-27,"SEDONA, AZ","United States",0
+1982-01-26,"SUSSEX, NJ","United States",0
+1991-01-27,"FORT WORTH, TX","United States",0
+1982-01-26,"LEE'S SUMMIT, MO","United States",0
+2017-11-19,"Rosamond, CA","United States",0
+1982-01-26,"ESSEX, MO","United States",0
+1991-01-27,"RUSH HILL, MO","United States",0
+1982-01-26,"HAVRE, MT","United States",0
+1991-01-27,"MORES ISLAND, BAHAMAS",Bahamas,0
+2017-11-19,"Point Mugu, CA","United States",0
+2017-11-19,"Guayaquil, Spain",Spain,0
+1991-01-27,"S TIM BLK 198",,2
+2017-11-19,"Los Angeles, CA","United States",0
+1991-01-28,"ORLANDO, FL","United States",1
+1991-01-28,"INDIANAPOLIS, IN","United States",0
+1991-01-28,"NOME, AK","United States",0
+1991-01-30,"DUNSMUIR, CA","United States",1
+1982-01-26,"10MI. NW WALSEN, CO","United States",0
+1991-01-30,"BECKLEY, WV","United States",0
+1982-01-27,"LAGUNITAS, CA","United States",1
+1991-01-30,"JOHNSTOWN, PA","United States",0
+2017-11-20,"Stuttgart, AR","United States",3
+1991-01-31,"MIAMI, FL","United States",0
+1982-01-27,"ANSONIA, CT","United States",0
+1982-01-27,"LODI, CA","United States",0
+1991-01-31,"CHARLOTTE, NC","United States",0
+1982-01-27,"BROOMFIELD, CO","United States",0
+1991-02-01,"LOS ANGELES, CA","United States",34
+1982-01-27,"HOFFMAN, MN","United States",0
+1991-02-01,"LOS ANGELES, CA","United States",34
+2017-11-20,"Tehachapi, CA","United States",1
+1991-02-01,"ANACORTES, WA","United States",0
+1982-01-27,"CHARLOTTESVILLE, VA","United States",0
+1991-02-01,"AGUA CALIENTE, CA","United States",0
+2017-11-20,"Aurora, CO","United States",0
+1982-01-28,"LOS GATOS, CA","United States",1
+1991-02-01,"INDIANAPOLIS, IN","United States",0
+1991-02-02,"COLSTRIP, MT","United States",2
+1982-01-28,"SUNRIVER, OR","United States",0
+2017-11-20,"Electra, TX","United States",1
+1991-02-02,"AUGUSTA, ME","United States",3
+1982-01-28,"WENTZVILLE, MO","United States",0
+2017-11-20,"San Diego, CA","United States",0
+1991-02-02,"LUMBERTON, NC","United States",1
+1982-01-28,"FOWLER, CA","United States",0
+1991-02-02,"CORDELE, GA","United States",3
+1991-02-02,"CORAM, NY","United States",0
+1982-01-28,"S. OF MORGAN CI, LA","United States",0
+1991-02-02,"NASHUA, NH","United States",0
+1982-01-28,"LOUISVILLE, KY","United States",0
+1991-02-02,"DURANGO, CO","United States",0
+1991-02-02,"HOLLY, CO","United States",0
+1982-01-29,"5M E. GREENSBUR, KS","United States",1
+1991-02-02,"WISE, VA","United States",0
+1982-01-29,"ATLANTA, GA","United States",0
+1991-02-02,"ADVANCE, NC","United States",0
+2017-11-20,"Jauja, Peru",Peru,0
+1982-01-29,"DARLINGTON, SC","United States",1
+1991-02-02,"EAGLE RIVER, AK","United States",0
+1991-02-03,"OSCEOLA, WI","United States",7
+1982-01-29,"NEAR GILLETE, WY","United States",0
+1991-02-03,"OSCEOLA, WI","United States",7
+1982-01-30,"TRUCKEE, CA","United States",0
+1991-02-03,"HARRISONBURG, VA","United States",0
+1991-02-03,"PITTS TOWN, BAHAMAS",Bahamas,0
+1982-01-30,"AVALON, CA","United States",0
+1991-02-03,"LAKE CITY, FL","United States",0
+1982-01-30,"OAKDALE, CA","United States",1
+1991-02-03,"PIXLEY, CA","United States",0
+2017-11-21,"El Dorado, MO","United States",0
+1982-01-30,"REDDING, CA","United States",0
+1991-02-03,"MERCED, CA","United States",0
+1991-02-03,"SANTA PAULA, CA","United States",0
+1982-01-30,"ELKO, NV","United States",0
+2017-11-22,"Woodlawn, VA","United States",0
+1991-02-03,"DURANGO, CO","United States",0
+1982-01-30,"BIG BEAR, CA","United States",0
+1991-02-03,"BROWNING, MO","United States",0
+1991-02-03,"SHELBYVILLE, IN","United States",0
+1982-01-30,"BALD KNOB, AR","United States",0
+2017-11-22,"Presque Isle, ME","United States",0
+1991-02-04,"SALT LAKE CITY, UT","United States",0
+2017-11-22,"Pittsford, VT","United States",1
+1991-02-04,"HAMILTON, OH","United States",0
+1982-01-30,"BRYCE CANYON, UT","United States",0
+2017-11-22,"Germiston, South Africa","South Africa",0
+1991-02-04,"COLUMBIA, CA","United States",0
+1982-01-30,"CONYERS, GA","United States",0
+1982-01-30,"CUMBERLAND ISLA, GA","United States",0
+1991-02-04,"GREENSBORO, NC","United States",0
+2017-11-22,"Dickinson, ND","United States",0
+1991-02-04,"TALKEETNA, AK","United States",0
+2017-11-22,"Bolingbrook, IL","United States",0
+1991-02-05,"SIDNEY, OH","United States",1
+2017-11-22,"De Kalb, IL","United States",0
+1991-02-05,"COCHRAN, GA","United States",0
+1991-02-06,"DUTCHTOWN, MO","United States",1
+2017-11-22,"La Morita, Mexico",Mexico,2
+1982-01-30,"SINCLAIR ISLAND, WA","United States",0
+2017-11-22,"Foz do Iguacu County, Brazil",Brazil,0
+1991-02-06,"DRAPER, UT","United States",0
+1982-01-31,"LAKE PLACID, NY","United States",0
+2017-11-22,"Maple Lake, MN","United States",0
+1991-02-06,"BUCKEYE, AZ","United States",0
+1982-01-31,"CALDWELL, NJ","United States",0
+1991-02-06,"MARSHFIELD, WI","United States",0
+1982-01-31,"MALDEN, MO","United States",0
+2017-11-23,"Starke, FL","United States",1
+1982-01-31,"NEW PORT RICHEY, FL","United States",0
+2017-11-23,"Overgaard, AZ","United States",0
+1991-02-07,"SKANEATELES, NY","United States",2
+1982-01-31,"DELAND, FL","United States",0
+2017-11-23,"Caldwell, TX","United States",0
+1991-02-07,"SNOWMASS, CO","United States",2
+1982-01-31,"EL CAJON, CA","United States",0
+1982-01-31,"ALBUQUERQUE, NM","United States",0
+2017-11-23,"Latvia, Latvia",Latvia,0
+2017-11-24,"NORTHAMPTON, MA","United States",0
+1982-01-31,"MCKINNEY, TX","United States",0
+1982-01-31,"TRINIDAD, CO","United States",0
+2017-11-24,"Moab, UT","United States",0
+2017-11-25,"Willows, CA","United States",0
+1982-02-01,"GROTON, CT","United States",0
+2017-11-25,"Ebensburg, PA","United States",0
+1982-02-01,"CRYSTAL RIVER, FL","United States",0
+2017-11-25,"Odessa, FL","United States",0
+1982-02-01,"HITCHCOCK, TX","United States",0
+2017-11-25,"Oloh, MS","United States",0
+1982-02-01,"PAMPA, TX","United States",2
+2017-11-25,"Clearwater, FL","United States",0
+1982-02-01,"SONOMA, CA","United States",0
+2017-11-26,"Tucson, AZ","United States",0
+1991-02-07,"MUNFORD, AL","United States",4
+1982-02-01,"LAS VEGAS, NV","United States",0
+1991-02-07,"LIBERTY, NC","United States",1
+1982-02-01,"LAS CRUCES, NM","United States",0
+2017-11-26,"Palmyra, WI","United States",0
+1982-02-01,"ANDERSON, IN","United States",0
+1991-02-07,"HELENA, MT","United States",0
+1982-02-01,"ROCK SPRINGS, WY","United States",0
+1991-02-07,"LA BELLE, FL","United States",0
+1982-02-02,"NEWBURGH, NY","United States",1
+1991-02-07,"ANCHORAGE, AK","United States",0
+1982-02-02,"JEANERETTE, LA","United States",2
+1982-02-02,"MOSES LAKE, WA","United States",0
+1991-02-08,"PETALUMA, CA","United States",1
+1982-02-02,"DRYDEN, TX","United States",0
+1991-02-08,"ST. THOMAS",,0
+1982-02-02,"WEST JORDAN, UT","United States",0
+1982-02-03,"PARADISE VALLEY, AZ","United States",1
+1991-02-09,"SONOMA, CA","United States",2
+2017-11-26,"Midland, TX","United States",0
+1982-02-03,"HAYDEN, CO","United States",0
+2017-11-26,"Daytona Beach, FL","United States",0
+1991-02-09,"GILMER, TX","United States",0
+1991-02-09,"RIVERSIDE, CA","United States",0
+1991-02-09,"YUBA CITY, CA","United States",0
+1991-02-09,"HERINGTON, KS","United States",0
+1991-02-09,"LAWRENCE, KS","United States",0
+2017-11-27,"Black River Falls, WI","United States",0
+1991-02-09,"GASTONIA, NC","United States",0
+1982-02-03,"PHILADELPHIA, PA","United States",0
+2017-11-27,"Oro Valley, AZ","United States",0
+1991-02-10,"MANSFIELD, TX","United States",0
+1982-02-03,"NR. COLBERT, WA","United States",0
+2017-11-27,"Louviers, CO","United States",0
+1991-02-10,"EASTON, PA","United States",0
+1982-02-03,"MT. HAMILTON, CA","United States",0
+1991-02-10,"PIRU, CA","United States",0
+1982-02-03,"INDIANAPOLIS, IN","United States",0
+1991-02-10,"DURANGO, CO","United States",0
+1982-02-03,"TOMS RIVER, NJ","United States",0
+1991-02-10,"OSSEO, WI","United States",0
+1982-02-04,"ORMAND BEACH, FL","United States",2
+1991-02-10,"TEEDSBURG, WI","United States",0
+1982-02-04,"BURNS, OR","United States",0
+2017-11-28,"Jamaica, NY","United States",0
+2017-11-29,"Singapore, Senegal",Senegal,0
+1982-02-04,"GULF OF MEXICO","GULF OF MEXICO",0
+1991-02-10,"EASTMAN, GA","United States",0
+1982-02-05,"120 NM SSE OF M, FL","United States",2
+1991-02-10,"GRANTHAM, NC","United States",0
+1991-02-10,"KIVALINA, AK","United States",0
+1982-02-05,"LAMBSBURG, VA","United States",4
+1982-02-05,"ELLINGTON, CT","United States",0
+1991-02-10,"VALDEZ, AK","United States",0
+1982-02-05,"LUVERNE, AL","United States",0
+1991-02-11,"YAMPA, CO","United States",4
+1982-02-06,"MEDFORD, OR","United States",0
+1991-02-11,"BAGDAD, AZ","United States",0
+2017-11-29,"Westminister, MD","United States",0
+1982-02-06,"FT. PIERCE, FL","United States",0
+1991-02-11,"BROWNSVILLE, TX","United States",0
+2017-11-29,"Mechanicsville, VA","United States",0
+1991-02-11,"LANSING, MI","United States",0
+1982-02-06,"SAN JOSE, CA","United States",0
+1991-02-12,"MOUNT GILEAD, OH","United States",0
+1982-02-06,"MEDFORD, OR","United States",0
+2017-11-29,"Atlanta, GA","United States",0
+1991-02-12,"SAN LUIS OBISPO, CA","United States",0
+1982-02-06,"SPRINGFIELD, MO","United States",0
+1991-02-13,"OGDEN, UT","United States",4
+1991-02-13,"MOBILE, AZ","United States",0
+1982-02-06,"GLENDALE, AZ","United States",0
+1991-02-13,"SANTA PAULA, CA","United States",2
+1982-02-06,"SAN JOSE, CA","United States",0
+1991-02-13,"ASPEN, CO","United States",3
+2017-11-29,"Bogota, Colombia",Colombia,0
+1982-02-06,"CORONA, CA","United States",0
+1991-02-13,"UNALASKA, AK","United States",0
+1991-02-13,"LOGAN, UT","United States",0
+2017-11-29,"New Orleans, LA","United States",0
+1982-02-06,"EAST LANSING, MI","United States",0
+1991-02-13,"PLANT CITY, FL","United States",0
+1982-02-06,"BROWNSBURG, IN","United States",0
+1991-02-13,"SANTA PAULA, CA","United States",2
+1991-02-13,"PALMER, AK","United States",0
+2017-11-29,"Nikolai, AK","United States",0
+1982-02-06,"PEORIA, IL","United States",0
+1991-02-14,"CROSSVILLE, TN","United States",1
+1982-02-06,"BUFFALO, MN","United States",0
+2017-11-30,"Truckee, CA","United States",0
+1991-02-14,"CLEVELAND, OH","United States",0
+1982-02-07,"W. OF HOMESTEAD, FL","United States",8
+1991-02-14,"CONCORD, NC","United States",0
+2017-11-30,"Bowie, MD","United States",0
+1991-02-15,"KYBURZ, CA","United States",1
+1991-02-15,"FALFURRIAS, TX","United States",5
+1991-02-15,"GUYMON, OK","United States",0
+1991-02-16,"FREDONIA, AZ","United States",4
+1991-02-16,"SO. LAKE TAHOE, CA","United States",0
+1991-02-16,"WICHITA FALLS, TX","United States",0
+1991-02-16,"TIMBERON, NM","United States",0
+1991-02-16,"UNION SPRINGS, AL","United States",0
+1991-02-16,"KODIAK, AK","United States",0
+1991-02-17,"CLEVELAND, OH","United States",2
+1991-02-17,"SAN CARLOS, CA","United States",0
+1991-02-17,"TRUCKEE, CA","United States",0
+1982-02-07,"W. OF HOMESTEAD, FL","United States",8
+1991-02-17,"WATSONVILLE, CA","United States",0
+1991-02-17,"BULLHEAD CITY, CA","United States",0
+1982-02-07,"KALAUPAPA, HI","United States",0
+2017-11-30,"Fullerton, CA","United States",0
+1991-02-18,"THORNTON, TX","United States",1
+2017-11-30,"Vereda El Mortillo, Colombia",Colombia,2
+1991-02-18,"EAGLE, CO","United States",0
+1982-02-07,"6 NM NORTH OF S, AZ","United States",4
+1982-02-07,"AURORA, OR","United States",0
+2017-12-01,"Miami, FL","United States",0
+2017-12-01,"Ravenswood, WV","United States",0
+1982-02-07,"PROSSER, WA","United States",0
+1982-02-07,"WRIGHTSTOWN, NJ","United States",0
+1982-02-07,"CAPE GIRARDEAU, MO","United States",0
+2017-12-01,"Mount Airy, NC","United States",0
+1982-02-07,"WASHINGTON, IA","United States",0
+2017-12-02,"Hernando, MS","United States",2
+1982-02-07,"ARTESIA, NM","United States",0
+2017-12-02,"Huntingdon, TN","United States",0
+1991-02-18,"ROUNDUP, MT","United States",0
+1982-02-07,"BENTON HARBOR, MI","United States",0
+2017-12-02,"Plato Center, IL","United States",0
+1982-02-07,"CANTON, MI","United States",0
+2017-12-02,"Park Rapids, MN","United States",0
+1991-02-18,"WALLKILL, NY","United States",0
+1982-02-07,"GREENCASTLE, IN","United States",0
+2017-12-02,"Bacoor, Philippines",Philippines,0
+1991-02-18,"ST. CLOUD, FL","United States",0
+1982-02-08,"SANTA YSABEL, CA","United States",1
+2017-12-03,"Chino, CA","United States",0
+1991-02-18,"CORCORAN, CA","United States",0
+1982-02-08,"BROWNSVILLE, KY","United States",0
+2017-12-03,"Frederick, MD","United States",0
+2017-12-03,"Thomasville, GA","United States",0
+1982-02-08,"SANDERSON, TX","United States",1
+1991-02-18,"KNOWLES, OK","United States",0
+2017-12-03,"Ravenna, OH","United States",1
+1982-02-08,"LANSING, IL","United States",0
+2017-12-03,"Everett, WA","United States",0
+1991-02-18,"PAVO, GA","United States",0
+1982-02-08,"MATTOON, IL","United States",0
+2017-12-03,"Miami, FL","United States",0
+1991-02-18,"BRUNSWICK, GA","United States",0
+1982-02-08,"VALPARAISO, IN","United States",0
+2017-12-04,"Hyannis, MA","United States",0
+1982-02-08,"NASHVILLE, TN","United States",0
+2017-12-04,"Rio Oso, CA","United States",0
+1991-02-19,"PUNXSUTAWNEY, PA","United States",0
+1982-02-08,"STATESBORO, GA","United States",0
+2017-12-04,"Jeffersonville, IN","United States",0
+1991-02-19,"COTTAGE GROVE, OR","United States",2
+1982-02-08,"NASHVILLE, TN","United States",0
+1991-02-19,"PANAMA CITY, FL","United States",0
+2017-12-04,"Caracas, Venezuela",Venezuela,0
+1982-02-09,"HICKMAN, CA","United States",0
+2017-12-05,"Rockford, IL","United States",0
+1982-02-09,"CIBOLO, TX","United States",1
+1991-02-20,"NORTH MANKATO, MN","United States",0
+2017-12-05,"Fort Pierce, FL","United States",0
+1982-02-09,"BIRMINGHAM, AL","United States",0
+1991-02-20,"NEWARK, IL","United States",0
+1982-02-09,"CARLSBAD, CA","United States",0
+2017-12-05,"Brewton, AL","United States",0
+1982-02-09,"ANOKA, MN","United States",0
+1991-02-21,"GLENDALE, OR","United States",3
+2017-12-05,"Chesapeake, VA","United States",0
+1982-02-09,"NEWPORT NEWS, VA","United States",0
+1991-02-22,"CARLSBAD, CA","United States",2
+2017-12-05,"Glendale, AZ","United States",0
+1982-02-09,"FORT YUKON, AK","United States",0
+1991-02-22,"TULSA, OK","United States",3
+1982-02-10,"LAKE WALES, FL","United States",0
+1982-02-10,"TWENTYNINE PALM, CA","United States",2
+2017-12-05,"Dubovaya Balka, Russia",Russia,2
+1991-02-22,"MONROE, WA","United States",0
+1982-02-10,"PLYMOUTH, MA","United States",0
+1991-02-22,"LDL-BY-THE-SEA, FL","United States",0
+2017-12-05,"Cheboygan, MI","United States",0
+1982-02-10,"SPANISH FORK, UT","United States",0
+2017-12-06,"Santa Rosa, AZ","United States",0
+1991-02-23,"POMPANO BEACH, FL","United States",1
+1982-02-10,"JESSUP, GA","United States",0
+1991-02-23,"ALICE TOWN, BAHAMAS",Bahamas,0
+2017-12-06,"Chesterfield, MO","United States",1
+1982-02-10,"URBANA, IL","United States",0
+1991-02-23,"EVERGLADES CITY, FL","United States",0
+2017-12-06,"Fort Lauderdale, FL","United States",0
+1982-02-11,"MIAMI, FL","United States",2
+1991-02-23,"LIGHT, AR","United States",0
+1982-02-11,"VALLEY HOME, CA","United States",0
+1991-02-24,"WESTERN, NE","United States",1
+2017-12-07,"Auburn, WA","United States",0
+1982-02-11,"CHESTERFIELD, MO","United States",0
+2017-12-08,"St. Croix,","United States",5
+1991-02-24,"BONNYMAN, KY","United States",1
+1982-02-11,"BRENHAM, TX","United States",1
+1991-02-24,"LOS ANGELES, CA","United States",0
+2017-12-08,"Spanish Fork, UT","United States",0
+1982-02-12,"JAMAICA, NY","United States",0
+1991-02-25,"LA BELLE, FL","United States",2
+2017-12-08,"Geneva, FL","United States",3
+1982-02-12,"PLEASANT HILL, OH","United States",0
+2017-12-08,"Limon, CO","United States",0
+1982-02-12,"FT. LAUDERDALE, FL","United States",0
+2017-12-08,"Everett, WA","United States",0
+1982-02-12,"ELYRIA, OH","United States",0
+2017-12-09,"Franklin, PA","United States",0
+1982-02-13,"HOLLISTER, CA","United States",4
+2017-12-09,"Sacramento, CA","United States",0
+1982-02-13,"NEAR SONOMA, CA","United States",1
+2017-12-09,"Pocasset, OK","United States",0
+1991-02-25,"FORT MORGAN, CO","United States",0
+1982-02-13,"NEAR LOS BANOS, CA","United States",2
+2017-12-09,"Algona, IA","United States",0
+1991-02-25,"GLASGOW, MT","United States",0
+1982-02-13,"GILROY, CA","United States",4
+2017-12-09,"Almaty, Kazakhstan",Kazakhstan,0
+1991-02-25,"VALKARIA, FL","United States",0
+1982-02-13,"GRAIN VALLEY, MO","United States",0
+2017-12-10,"San Diego, CA","United States",2
+1991-02-25,"MESA, AZ","United States",0
+1982-02-13,"MOBERLY, MO","United States",0
+1991-02-25,"COALINGA, CA","United States",0
+2017-12-10,"Miami, FL","United States",1
+1982-02-13,"PENSACOLA, FL","United States",0
+1991-02-25,"DAVANT, LA","United States",0
+2017-12-10,"Maunaloa, HI","United States",2
+1982-02-13,"NAVAJO DAM, NM","United States",0
+1982-02-13,"PLENTYWOOD, MT","United States",0
+1991-02-26,"PORT TOWNSEND, WA","United States",0
+1991-02-26,"FULLERTON, CA","United States",0
+1982-02-13,"ALTAMONT, IL","United States",0
+1991-02-26,"WONDER LAKE, IL","United States",0
+1991-02-27,"OREGON CITY, OR","United States",1
+1991-02-27,"ELWOOD, IN","United States",0
+1991-02-27,"FLAT TOP MTN., AK","United States",0
+1991-02-28,"SPRINGFIELD, MO","United States",0
+1982-02-14,"NEW GLOUCESTER, ME","United States",1
+1991-03-01,"GREEN VALLEY, CA","United States",1
+1991-03-01,"FORT CHAFFEE, AR","United States",1
+1982-02-14,"QUINCY, CA","United States",1
+2017-12-12,"Detroit, MI","United States",0
+1991-03-01,"TAOS, NM","United States",1
+1982-02-14,"DAGGETT, CA","United States",0
+1991-03-01,"SUCHES, GA","United States",0
+1982-02-14,"CLEVELAND, TX","United States",0
+2017-12-12,"Rogersburg, OR","United States",0
+1991-03-01,"NASHUA, NH","United States",0
+2017-12-13,"Oakland Park, FL","United States",0
+1982-02-14,"FACTORYVILLE, PA","United States",0
+1991-03-01,"JENSEN BEACH, FL","United States",0
+1991-03-01,"FRIENDSWOOD, TX","United States",0
+1982-02-14,"CHESTERFIELD, MO","United States",0
+1982-02-14,"MIAMI, FL","United States",0
+2017-12-13,"Cusco, Peru",Peru,0
+1991-03-01,"GENESEE, MI","United States",0
+1982-02-14,"LEBANON, IN","United States",0
+1982-02-14,"DWIGHT, IL","United States",0
+1982-02-14,"LAMBERTVILLE, MI","United States",0
+1982-02-14,"JACKSONVILLE, NC","United States",2
+1982-02-14,"RIDGELAND, SC","United States",0
+1982-02-15,"ONTARIO, CA","United States",0
+1982-02-15,"FARMERVILLE, LA","United States",0
+1982-02-15,"CORYDON, IN","United States",1
+1982-02-15,"SCHROON LAKE, NY","United States",0
+1982-02-15,"DES MOINES, IA","United States",0
+1982-02-15,"CHESTERFIELD, MO","United States",0
+1991-03-01,"ANCHORAGE, AK","United States",0
+1982-02-15,"MONEE, IL","United States",0
+1982-02-15,"FORT WAYNE, IN","United States",0
+1982-02-15,"OTTAWA, OH","United States",0
+1982-02-15,"HAGERSTOWN, MD","United States",0
+1982-02-15,"FAYETTEVILLE, NC","United States",0
+1982-02-15,"STEVENSVILLE, MD","United States",0
+1982-02-15,"EAST SAINT LOUI, IL","United States",0
+1991-03-02,"PHILADELPHIA, PA","United States",0
+1982-02-15,"SAN JUAN","Puerto Rico",0
+1991-03-02,"JACKSONVILLE, FL","United States",0
+1982-02-16,"SPRINGFIELD, KY","United States",8
+1991-03-02,"CARMEL VALLEY, CA","United States",0
+2017-12-13,"Newark, OH","United States",0
+1982-02-16,"COLUMBUS, OH","United States",0
+1991-03-02,"MONTEREY PARK, CA","United States",1
+1982-02-16,"KING SALMON, AK","United States",0
+2017-12-13,"Rivadavia, Argentina",Argentina,1
+1982-02-17,"OPA LOCKA, FL","United States",0
+1991-03-02,"MARANA, AZ","United States",0
+2017-12-14,"Hinesville, GA","United States",0
+1982-02-17,"SAN LUIS OBISPO, CA","United States",0
+1991-03-02,"MARANA, AZ","United States",0
+1982-02-17,"TOADLENA, NM","United States",0
+1991-03-02,"RENO, NV","United States",0
+1982-02-17,"HENDERSON, TX","United States",0
+1991-03-02,"PACOIMA, CA","United States",0
+1982-02-17,"7 MILES N. OF S, CO","United States",0
+1991-03-02,"CHICAGO, IL","United States",0
+1982-02-17,"RAPID CITY, SD","United States",0
+1991-03-03,"WEST BROOKFIELD, MA","United States",0
+1991-03-03,"VAN NUYS, CA","United States",0
+1982-02-17,"BLANDING, UT","United States",0
+2017-12-14,"West End, Bahamas",Bahamas,1
+2017-12-14,"Valley Springs, CA","United States",0
+1982-02-17,"MIAMI, FL","United States",0
+2017-12-14,"Kwigillingok, AK","United States",0
+1982-02-17,"MITCHELL, SD","United States",0
+2017-12-14,"Waldburg, Germany",Germany,3
+1982-02-18,"BOISE, ID","United States",0
+2017-12-14,"Fond-du-Lac, Canada",Canada,0
+1982-02-18,"ST. GEORGE, UT","United States",1
+2017-12-15,"Islamorada, FL","United States",0
+2017-12-15,"Qaroun Lake, Egypt",Egypt,3
+1982-02-18,"HYTOP, AL","United States",1
+2017-12-16,"Everglades City, FL","United States",0
+2017-12-16,"Burlington, NC","United States",0
+1982-02-18,"SCOTIA, NY","United States",0
+2017-12-16,"Castalia, NC","United States",1
+1982-02-18,"PEMBROKE PINES, FL","United States",0
+2017-12-16,"Baldur, Canada",Canada,1
+1982-02-19,"MOUNT POCONO, PA","United States",0
+2017-12-17,"North Las Vegas, NV","United States",0
+1982-02-19,"PHOENIX, AZ","United States",0
+2017-12-17,"Oldenburg, IN","United States",3
+1982-02-19,"TORRANCE, CA","United States",0
+2017-12-17,"El Cajon, CA","United States",0
+1982-02-19,"MESQUITE, TX","United States",0
+1982-02-19,"NEW RICHLAND, MN","United States",0
+1982-02-19,"ROSELLE, IL","United States",0
+1982-02-19,"ST. CHARLES, IL","United States",0
+1982-02-19,"PEMBROKE PINES, FL","United States",0
+1982-02-19,"BRAWLEY, CA","United States",0
+2017-12-17,"Caldwell, ID","United States",0
+1982-02-19,"OSHKOSH, WI","United States",0
+2017-12-17,"Wiscassett, ME","United States",0
+1982-02-20,"MORGAN HILL, CA","United States",0
+1982-02-20,"GUSTINE, CA","United States",1
+2017-12-17,"Itapua, Panama",Panama,1
+2017-12-18,"Reeds Spring, MO","United States",2
+2017-12-18,"Willow, AK","United States",0
+2017-12-18,"Saint Louis, MO","United States",0
+2017-12-18,"Yentna, AK","United States",0
+2017-12-18,"Georgetown, TX","United States",0
+2017-12-19,"Knoxville, TN","United States",0
+2017-12-19,"Ridgeland, SC","United States",0
+1982-02-20,"FORT SUMNER, NM","United States",2
+1991-03-03,"COLORADO SPGS, CO","United States",25
+2017-12-19,"Phoenix, AZ","United States",0
+1991-03-03,"ST.CROIX FALLS, WI","United States",1
+2017-12-19,"Versailles, MO","United States",0
+1982-02-20,"SAINT JO, TX","United States",1
+1991-03-03,"GARRISONVILLE, VA","United States",0
+1982-02-20,"PERRYVILLE, MO","United States",0
+1991-03-03,"FINGER LAKE, AK","United States",0
+2017-12-19,"Naryan-Mar, Russia",Russia,0
+1991-03-03,"VAN NUYS, CA","United States",0
+1982-02-20,"ST. PETERSBURG, FL","United States",0
+2017-12-20,"Mankato, MN","United States",0
+1982-02-20,"GRAND CANYON, AZ","United States",0
+1991-03-04,"EVERGLADES CITY, FL","United States",0
+1991-03-05,"BELLINGHAM, WA","United States",3
+1982-02-20,"LUBBOCK, TX","United States",0
+2017-12-20,"Longmont, CO","United States",0
+1991-03-05,"BELLINGHAM, WA","United States",3
+1982-02-20,"KROTZ SPRINGS, LA","United States",0
+1991-03-05,"GLENS FALLS, NY","United States",0
+2017-12-20,"Angleton, TX","United States",0
+2017-12-21,"Thompson's Station, TN","United States",1
+1982-02-20,"HUNTINGTON, IN","United States",0
+1991-03-05,"WHITES CITY, NM","United States",2
+1991-03-05,"LEANDER, TX","United States",0
+2017-12-21,"Cross City, FL","United States",1
+1982-02-20,"FRANKLIN, WI","United States",0
+1991-03-05,"TULSA, OK","United States",0
+2017-12-21,"Bredasdorp, South Africa","South Africa",0
+1982-02-20,"N CAPE YAKATAGA, AK","United States",0
+1982-02-21,"ALLIANCE, NE","United States",0
+1991-03-05,"FOREST LAKE, MN","United States",0
+1982-02-21,"AVALON, CA","United States",0
+1991-03-05,"CHESAPEAKE, VA","United States",0
+2017-12-21,"Monroe, MI","United States",0
+1982-02-21,"TRUCKEE, CA","United States",1
+1982-02-21,"PROVIDENCE, RI","United States",1
+2017-12-22,"Venice, FL","United States",0
+1991-03-05,"MURFREESBORO, TN","United States",0
+1982-02-21,"MONONA, IA","United States",0
+1991-03-06,"FLAGSTAFF, AZ","United States",0
+2017-12-23,"Newport, OR","United States",0
+1982-02-21,"MARCELINE, MO","United States",0
+1991-03-06,"ST. LOUIS, MO","United States",0
+2017-12-23,"Oskaloosa, IA","United States",1
+1982-02-21,"TIPTON, IA","United States",0
+1982-02-21,"CATALINA ISLAND, CA","United States",0
+1991-03-07,"ATLANTIC OCEAN","ATLANTIC OCEAN",0
+2017-12-23,"Clermont, FL","United States",0
+1982-02-21,"SACRAMENTO, CA","United States",0
+1991-03-07,"PALM SPRINGS, CA","United States",1
+2017-12-23,"Bethel, AK","United States",0
+1982-02-21,"NEAR TEXARKANA, AR","United States",2
+2017-12-23,"Montecristi, Las Americas","Dominican Republic",0
+1982-02-21,"LAKERVILLE, MN","United States",0
+1991-03-07,"EAST SWANZEY, NH","United States",0
+2017-12-24,"Providenciales, Tokelau",Tokelau,2
+1982-02-21,"PLAINFIELD, IL","United States",0
+1991-03-07,"RANCOCAS, NJ","United States",0
+2017-12-24,"Bartow, FL","United States",5
+1982-02-21,"BLOOMINGTON, IN","United States",0
+1991-03-07,"HIGH ISLAND, TX","United States",1
+2017-12-24,"Union Mills, NC","United States",0
+1982-02-21,"FRANKLIN, WI","United States",0
+2017-12-25,"Riverton, WY","United States",0
+1991-03-07,"HAGERSTOWN, MD","United States",0
+1982-02-22,"SUTHERLIN, OR","United States",0
+1991-03-08,"HONOLULU, HI","United States",0
+1982-02-22,"SELFRIDGE, ND","United States",2
+2017-12-25,"Perris, CA","United States",0
+1982-02-22,"WESTERLY, RI","United States",0
+2017-12-25,"Medford, OR","United States",0
+1991-03-08,"SPARREVOHN AFS, AK","United States",0
+1982-02-22,"PICKENS, AR","United States",0
+2017-12-26,"Santa Ana, CA","United States",0
+1991-03-08,"GIG HARBOR, WA","United States",0
+1982-02-22,"NEAR PATTERSON, LA","United States",0
+2017-12-27,"Upper Lake, CA","United States",0
+1991-03-08,"TUCSON, AZ","United States",0
+1982-02-22,"ABILENE, TX","United States",0
+1982-02-22,"ELYRIA, OH","United States",0
+2017-12-27,"Michigan City, IN","United States",0
+1982-02-22,"FLORIDA CITY, FL","United States",0
+2017-12-28,"Spearfish, SD","United States",0
+1982-02-22,"CLEVELAND, OH","United States",0
+2017-12-28,"Paulding, OH","United States",0
+1982-02-23,"LODI, CA","United States",0
+2017-12-29,"Ogden, UT","United States",2
+1982-02-23,"WATROUS, NM","United States",1
+2017-12-30,"San Bernardino, CA","United States",0
+1982-02-23,"CARROLL, IA","United States",0
+1982-02-23,"KINGFISHER, OK","United States",0
+2017-12-30,"Alicante, Spain",Spain,1
+2017-12-30,"Dom Pedrito, Brazil",Brazil,1
+1982-02-23,"OXFORD, OH","United States",0
+1991-03-08,"HARPER, KS","United States",1
+2017-12-30,"Pullman, WA","United States",0
+1982-02-23,"ATLANTIC OCEAN","ATLANTIC OCEAN",0
+1991-03-08,"SHAGELUK, AK","United States",0
+2017-12-31,"Punta Islita, Philippines",Philippines,12
+1982-02-24,"SAN SIMON, AZ","United States",0
+1991-03-09,"KEY WEST, FL","United States",3
+1982-02-24,"HURON, CA","United States",1
+2017-12-31,"Cottage Point, Australia",Australia,6
+1991-03-09,"SEATTLE, WA","United States",0
+1982-02-24,"FORT WORTH, TX","United States",0
+1991-03-09,"SKYKOMISH, WA","United States",0
+1982-02-24,"HENNESSEY, OK","United States",0
+1991-03-09,"MIAMISBURG, OH","United States",0
+1982-02-24,"CHICAGO, IL","United States",0
+1991-03-09,"GREENWOOD, MS","United States",0
+1982-02-24,"WASCO, OR","United States",0
+1991-03-09,"FARMINGTON, CA","United States",0
+1982-02-24,"DOYLESTOWN, PA","United States",0
+1991-03-10,"ENGLEWOOD, CO","United States",0
+1982-02-24,"BRYAN, OH","United States",0
+1991-03-10,"STERLING, CO","United States",2
+2018-01-01,"Lynchburg, VA","United States",0
+1982-02-24,"CLARKSDALE, MS","United States",0
+1991-03-10,"LOA, UT","United States",0
+1982-02-25,"HILTON HEAD, SC","United States",4
+2018-01-02,"Nampa, ID","United States",0
+2018-01-02,"Aurora, OR","United States",0
+1982-02-25,"JEROME, ID","United States",0
+2018-01-03,"Gulf of Mexico, GM","United States",1
+1982-02-25,"EUNICE, LA","United States",0
+1982-02-25,"AITKIN, MN","United States",0
+1991-03-10,"AMOS LAKES, AK","United States",0
+2018-01-04,"Montrose, CO","United States",0
+1991-03-11,"SANTA ANA, CA","United States",0
+2018-01-05,"Kittila, Finland",Finland,0
+1991-03-11,"ROSEBURG, OR","United States",0
+2018-01-05,"Norfolk, NE","United States",0
+1991-03-11,"TUCSON, AZ","United States",0
+2018-01-05,"Toronto, Canada",Canada,0
+1991-03-11,"ATIGAN PASS, AK","United States",0
+2018-01-06,"Ponca City, OK","United States",0
+1991-03-12,"JAMAICA, NY","United States",0
+2018-01-08,"Albany, TX","United States",0
+1991-03-12,"BRONSON, FL","United States",1
+1982-02-25,"DEL RIO, TX","United States",0
+1991-03-12,"OGALLALA, NE","United States",0
+2018-01-09,"Jaramillo, Spain",Spain,1
+1982-02-25,"DALLAS, TX","United States",0
+1991-03-12,"FALL RIVER, MA","United States",0
+1982-02-26,"SAN MARCOS, TX","United States",1
+1991-03-12,"CALDWELL, NJ","United States",0
+2018-01-10,"London, United Kingdom","United Kingdom",0
+2018-01-10,"Albay, Philippines",Philippines,0
+1991-03-12,"VERO BEACH, FL","United States",0
+1982-02-26,"ATLANTA, GA","United States",0
+1991-03-12,"DUNLAP, TN","United States",0
+1982-02-26,"MCPHERSON, KS","United States",0
+1991-03-13,"GORMAN, CA","United States",3
+2018-01-10,"Meadville, PA","United States",0
+1991-03-13,"ANGOLA, NY","United States",0
+1982-02-26,"MANCHESTER, MI","United States",0
+2018-01-11,"Wadsworth, OH","United States",0
