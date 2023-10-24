@@ -1,0 +1,36 @@
+id,city,countries,zip code,latitude,longitude,state
+1,Marietta,United States,30061,"339,491,123","-845,507,433",Georgia
+2,Ogden,United States,84409,41.2,-111.98,Utah
+3,Migrate,United States,41905,"383,237,571","-1,081,821,561",Kentucky
+4,Colorado Springs,United States,80905,"388,163,486","-1,048,512,993",Colorado
+5,Port Washington,United States,11054,"408,395,426","-737,023,905",New York
+6,Tucson,United States,85715,"322,514,545","-1,108,374,104",Arizona
+7,Pensacola,United States,32595,"30,475,663","-87,193,563",Florida
+8,Erie,United States,16505,"420,948,645","-801,707,662",Pennsylvania
+9,Houston,United States,77090,"300,118,752","-954,463,322",Texas
+10,Huntington,United States,25709,"384,099,999","-824,599,999",West Virginia
+11,Santa Barbara,United States,93106,"344,135,868","-1,198,496,976",California
+12,Fort Worth,United States,76115,"326,786,908","-973,354,531",Texas
+13,Miami,United States,33233,"25,728,011","-802,454,223",Florida
+14,Wilkes Barre,United States,18706,"412,164,036","-759,142,437",Pennsylvania
+15,Lees Summit,United States,64082,"388,525,512","-944,079,213",Missouri
+16,Macon,United States,31205,32.75,-83.66,Georgia
+17,New Haven,United States,6510,"413,052,226","-729,268,626",Connecticut
+18,Humble,United States,77346,"299,997,656","-951,744,903",Texas
+19,Grand Rapids,United States,49505,"430,043,693","-856,332,093",Michigan
+20,Phoenix,United States,85053,"336,289,952","-1,121,370,601",Arizona
+21,Winter Haven,United States,33884,"279,890,156","-816,802,054",Florida
+22,Atlanta,United States,30328,"339,253,024","-843,857,442",Georgia
+23,Carlsbad,United States,92013,33.1,-117.28,California
+24,Birmingham,United States,35244,"333,639,393","-868,119,917",Alabama
+25,Iowa City,United States,52245,"416,613,587","-914,918,235",Iowa
+26,Gainesville,United States,32627,29.65,-82.33,Florida
+27,Oklahoma City,United States,73167,35.47,-97.52,Oklahoma
+28,Fort Pierce,United States,34981,"273,980,151","-803,714,326",Florida
+29,Baltimore,United States,21290,"392,937,264","-766,248,739",Maryland
+30,Tampa,United States,33680,"279,961,123","-824,290,869",Florida
+31,Detroit,United States,48211,"423,840,829","-830,415,078",Michigan
+32,Battle Creek,United States,49018,"42,319,384","-851,872,878",Michigan
+33,Irving,United States,75037,"32,886,855","-96,967,936",Texas
+34,Katy,United States,77493,"297,857,853","-958,243,956",Texas
+35,Springfield,United States,1129,"421,144,473","-724,909,026",Massachusetts

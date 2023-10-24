@@ -1,0 +1,81 @@
+product_id,product,price,profit margine,tax rate
+1,Chips - Potato Jalapeno,4.29,0.24,0.07
+2,"Iced Tea - Lemon, 460 Ml",2.69,0.22,0.19
+3,Beer - Sleemans Cream Ale,3.39,0.26,0.07
+4,Icecream - Dstk Cml And Fdg,2.59,0.14,0.19
+5,Onions - Spanish,3.99,0.15,0.19
+6,Cactus Pads,3.39,0.19,0.19
+7,Cheese - Colby,3.99,0.18,0.19
+8,"Beef - Ground, Extra Lean, Fresh",1.89,0.28,0.19
+9,Bar Mix - Lemon,2.29,0.18,0.07
+10,Nori Sea Weed,3.89,0.13,0.07
+11,"Pasta - Rotini, Colour, Dry",5.49,0.28,0.19
+12,Bread - 10 Grain,4.29,0.10,0.07
+13,Chips - Assorted,5.49,0.11,0.07
+14,Water - Tonic,3.49,0.18,0.19
+15,Tomatoes - Grape,4.29,0.17,0.07
+16,Food Colouring - Blue,3.79,0.26,0.07
+17,Stainless Steel Cleaner Vision,5.99,0.16,0.19
+18,Hinge W Undercut,3.99,0.28,0.19
+19,Shichimi Togarashi Peppeers,6.99,0.21,0.07
+20,Jolt Cola - Electric Blue,3.99,0.17,0.07
+21,"Lid - Translucent, 3.5 And 6 Oz",3.89,0.23,0.19
+22,Table Cloth 90x90 White,3.89,0.28,0.07
+23,"Soup - Clam Chowder, Dry Mix",6.99,0.27,0.07
+24,Egg - Salad Premix,2.29,0.28,0.07
+25,Mints - Striped Red,3.89,0.15,0.07
+26,Mahi Mahi,3.99,0.14,0.19
+27,Scallops - 20/30,2.59,0.28,0.19
+28,Clams - Bay,2.39,0.13,0.19
+29,Lid - 3oz Med Rec,2.29,0.21,0.19
+30,Cheese - Sheep Milk,2.69,0.25,0.19
+31,Lobster - Base,2.69,0.25,0.19
+32,Tomato - Green,2.29,0.17,0.19
+33,"Oil - Food, Lacquer Spray",3.89,0.23,0.19
+34,"Syrup - Monin, Swiss Choclate",3.89,0.16,0.19
+35,Lettuce - Boston Bib - Organic,4.29,0.15,0.07
+36,Sprouts - Corn,2.29,0.29,0.07
+37,Bread - French Stick,3.99,0.28,0.19
+38,Wine - Sawmill Creek Autumn,2.49,0.23,0.19
+39,Ecolab - Mikroklene 4/4 L,3.99,0.23,0.07
+40,Mangostein,5.99,0.19,0.07
+41,Rolled Oats,1.99,0.11,0.07
+42,Roe - Flying Fish,1.89,0.20,0.19
+43,Beef - Cow Feet Split,2.29,0.27,0.07
+44,Propel Sport Drink,2.49,0.23,0.07
+45,"Pasta - Penne, Lisce, Dry",2.39,0.23,0.19
+46,Vaccum Bag 10x13,2.39,0.21,0.07
+47,"Tendrils - Baby Pea, Organic",2.29,0.11,0.19
+48,"Oil - Olive, Extra Virgin",6.99,0.11,0.07
+49,Tequila - Sauza Silver,6.99,0.19,0.07
+50,Veal - Heart,3.99,0.10,0.19
+51,Cookie Dough - Double,2.39,0.18,0.19
+52,"Dill - Primerba, Paste",5.99,0.27,0.19
+53,Cookie Dough - Oatmeal Rasin,4.29,0.10,0.07
+54,Beans - Kidney White,3.39,0.20,0.07
+55,Cakes Assorted,2.49,0.17,0.19
+56,Cheese - Asiago,2.69,0.23,0.07
+57,Soho Lychee Liqueur,3.79,0.11,0.07
+58,Cleaner - Lime Away,3.89,0.20,0.07
+59,Carbonated Water - Orange,1.99,0.26,0.07
+60,Plasticspoonblack,3.49,0.18,0.19
+61,Lid Coffeecup 12oz D9542b,6.99,0.28,0.07
+62,Wine - Sauvignon Blanc,3.49,0.18,0.07
+63,"Cheese - Brie,danish",3.89,0.17,0.07
+64,Juice - Prune,3.39,0.25,0.07
+65,Snapple Lemon Tea,3.99,0.28,0.07
+66,Tea - Honey Green Tea,3.39,0.17,0.07
+67,"Nut - Hazelnut, Whole",7.99,0.13,0.19
+68,Fish - Bones,2.59,0.19,0.19
+69,Halibut - Steaks,2.49,0.21,0.07
+70,Cornish Hen,2.59,0.10,0.07
+71,Chinese Lemon Pork,6.99,0.15,0.19
+72,Table Cloth 90x90 Colour,4.29,0.25,0.07
+73,The Pop Shoppe - Cream Soda,2.29,0.15,0.07
+74,Arizona - Green Tea,7.99,0.21,0.19
+75,Squid - Breaded,5.49,0.16,0.19
+76,Wine - Manischewitz Concord,2.39,0.13,0.07
+77,Tamarind Paste,3.89,0.28,0.19
+78,Ham - Cooked Bayonne Tinned,5.99,0.29,0.19
+79,Lobster - Cooked,6.99,0.28,0.19
+80,Foil Cont Round,4.29,0.21,0.19
